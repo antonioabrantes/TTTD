@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:text=""
+        android:id="@+id/tv_assunto2"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"
+        android:paddingTop="2sp"
+        android:paddingLeft="8sp"
+        android:paddingRight="8sp"
+        />
+
+    <TextView
+        android:id="@+id/tv_subAssunto2"
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="14sp"
+        android:paddingLeft="8sp"
+        android:paddingRight="8sp"
+        android:paddingBottom="2sp"
+        />
+
+</LinearLayout>

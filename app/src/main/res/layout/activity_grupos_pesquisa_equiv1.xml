@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GruposPesquisaEquiv1">
+
+    <include
+        android:id="@+id/toolbarEquiv1"
+        layout="@layout/toolbar"></include>
+
+    <ListView
+        android:id="@+id/listViewEquiv1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="56dp"
+        app:layout_constraintStart_toStartOf="@+id/toolbarEquiv1"
+        app:layout_constraintTop_toTopOf="@+id/toolbarEquiv1">
+    </ListView>
+
+</android.support.constraint.ConstraintLayout>

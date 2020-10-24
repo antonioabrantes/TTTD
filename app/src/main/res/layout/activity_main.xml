@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar"
+        android:layout_width="fill_parent"
+        android:layout_height="56dp"></include>
+
+
+    <Button
+        android:id="@+id/btEsquema"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:background="@null"
+        android:drawableTop="@drawable/btn_esquema"
+        android:drawablePadding="10dp"
+        android:text="@string/menu_esquema"
+        android:textColor="@color/preto"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/btRemissivo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar" />
+
+    <Button
+        android:id="@+id/btRemissivo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:background="@null"
+        android:drawableTop="@drawable/btn_remissivo"
+        android:drawablePadding="10dp"
+        android:text="@string/menu_remissivo"
+        android:textColor="@color/preto"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/btEsquema"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar" />
+
+    <Button
+        android:id="@+id/btBusca"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:background="@null"
+        android:drawableTop="@drawable/btn_busca"
+        android:drawablePadding="10dp"
+        android:text="@string/menu_busca"
+        android:textColor="@color/preto"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/btSobre"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btEsquema" />
+
+
+    <Button
+        android:id="@+id/btSobre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:background="@null"
+        android:drawableTop="@drawable/btn_sobre"
+        android:drawablePadding="10dp"
+        android:text="@string/menu_sobre"
+        android:textColor="@color/preto"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/btBusca"
+        app:layout_constraintTop_toBottomOf="@+id/btRemissivo" />
+
+    <Button
+        android:id="@+id/btEquivalencia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:background="@null"
+        android:drawableTop="@drawable/btn_equivalencia"
+        android:drawablePadding="10dp"
+        android:text="@string/menu_equivalencia"
+        android:textColor="@color/preto"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/btSobre"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btBusca" />
+
+    <Button
+        android:id="@+id/btBuscaEquivalencia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:background="@null"
+        android:drawableTop="@drawable/btn_busca_equivalencia"
+        android:drawablePadding="10dp"
+        android:text="@string/menu_buscaEquivalencia"
+        android:textColor="@color/preto"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/btEquivalencia"
+        app:layout_constraintTop_toBottomOf="@+id/btSobre" />
+
+
+</android.support.constraint.ConstraintLayout>

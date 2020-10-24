@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mannings.msi.com.ttdd">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_round"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashActivity"></activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".KindS" />
+        <activity android:name=".About" />
+        <activity android:name=".Pesquisa" />
+        <activity android:name=".KindG" />
+        <activity android:name=".KindZ" />
+        <activity android:name=".KindM" />
+        <activity android:name=".KindN" />
+        <activity android:name=".GruposPesquisa" />
+        <activity android:name=".Onosmatico" />
+        <activity android:name=".OnosS" />
+        <activity android:name=".OnosG" />
+        <activity android:name=".OnosZ" />
+        <activity android:name=".Ajuda" />
+        <activity android:name=".Temporal" />
+        <activity android:name=".BuscaPalavra" />
+        <activity android:name=".Equivalencia" />
+        <activity android:name=".TextoExplica" />
+        <activity android:name=".PesquisaEquiv" />
+        <activity android:name=".GruposPesquisaEquiv1" />
+        <activity android:name=".GPesquisaEquiv2" />
+        <activity android:name=".Esquema" />
+    </application>
+
+</manifest>

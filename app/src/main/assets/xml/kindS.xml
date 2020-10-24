@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT>
+    <row>
+        <field name='id'>2</field>
+        <field name='grupo'>000</field>
+        <field name='kind'>s</field>
+        <field name='assunto'>ADMINISTRAÇÃO GERAL</field>
+        <field name='fase_corrente'> </field>
+        <field name='fase_intermediaria'> </field>
+        <field name='destinacao'> </field>
+        <field name='observacoes'> </field>
+        <field name='indice'>1</field>
+        <field name='proximo'>2</field>
+    </row>
+    <row>
+        <field name='id'>27</field>
+        <field name='grupo'>010</field>
+        <field name='kind'>s</field>
+        <field name='assunto'>ORGANIZAÇÃO E FUNCIONAMENTO</field>
+        <field name='fase_corrente'> </field>
+        <field name='fase_intermediaria'> </field>
+        <field name='destinacao'> </field>
+        <field name='observacoes'> </field>
+        <field name='indice'>1</field>
+        <field name='proximo'>3</field>
+    </row>
+    <row>
+        <field name='id'>65</field>
+        <field name='grupo'>020</field>
+        <field name='kind'>s</field>
+        <field name='assunto'>GESTÃO DE PESSOAS</field>
+        <field name='fase_corrente'> </field>
+        <field name='fase_intermediaria'> </field>
+        <field name='destinacao'> </field>
+        <field name='observacoes'> </field>
+        <field name='indice'>1</field>
+        <field name='proximo'>4</field>
+    </row>
+    <row>
+        <field name='id'>224</field>
+        <field name='grupo'>030</field>
+        <field name='kind'>s</field>
+        <field name='assunto'>GESTÃO DE MATERIAIS</field>
+        <field name='fase_corrente'> </field>
+        <field name='fase_intermediaria'> </field>
+        <field name='destinacao'> </field>
+        <field name='observacoes'> </field>
+        <field name='indice'>1</field>
+        <field name='proximo'>5</field>
+    </row>
+    <row>
+        <field name='id'>279</field>
+        <field name='grupo'>040</field>
+        <field name='kind'>s</field>
+        <field name='assunto'>GESTÃO DE BENS PATRIMONIAIS E DE SERVIÇOS</field>
+        <field name='fase_corrente'> </field>
+        <field name='fase_intermediaria'> </field>
+        <field name='destinacao'> </field>
+        <field name='observacoes'> </field>
+        <field name='indice'>1</field>
+        <field name='proximo'>6</field>
+    </row>
+    <row>
+        <field name='id'>378</field>
+        <field name='grupo'>050</field>
+        <field name='kind'>s</field>
+        <field name='assunto'>GESTÃO ORÇAMENTÁRIA E FINANCEIRA</field>
+        <field name='fase_corrente'> </field>
+        <field name='fase_intermediaria'> </field>
+        <field name='destinacao'> </field>
+        <field name='observacoes'> </field>
+        <field name='indice'>1</field>
+        <field name='proximo'>7</field>
+    </row>
+    <row>
+        <field name='id'>419</field>
+        <field name='grupo'>060</field>
+        <field name='kind'>s</field>
+        <field name='assunto'>GESTÃO DA DOCUMENTAÇÃO E DA INFORMAÇÃO</field>
+        <field name='fase_corrente'> </field>
+        <field name='fase_intermediaria'> </field>
+        <field name='destinacao'> </field>
+        <field name='observacoes'> </field>
+        <field name='indice'>1</field>
+        <field name='proximo'>8</field>
+    </row>
+    <row>
+        <field name='id'>484</field>
+        <field name='grupo'>070</field>
+        <field name='kind'>s</field>
+        <field name='assunto'>GESTÃO DOS SERVIÇOS POSTAIS E DE TELECOMUNICAÇÕES</field>
+        <field name='fase_corrente'> </field>
+        <field name='fase_intermediaria'> </field>
+        <field name='destinacao'> </field>
+        <field name='observacoes'> </field>
+        <field name='indice'>1</field>
+        <field name='proximo'>9</field>
+    </row>
+    <row>
+        <field name='id'>503</field>
+        <field name='grupo'>090</field>
+        <field name='kind'>s</field>
+        <field name='assunto'>VAGA</field>
+        <field name='fase_corrente'> </field>
+        <field name='fase_intermediaria'> </field>
+        <field name='destinacao'> </field>
+        <field name='observacoes'> </field>
+        <field name='indice'>1</field>
+        <field name='proximo'>0</field>
+    </row>
+    <row>
+        <field name='id'>505</field>
+        <field name='grupo'>910</field>
+        <field name='kind'>s</field>
+        <field name='assunto'>GESTÃO DE EVENTOS</field>
+        <field name='fase_corrente'> </field>
+        <field name='fase_intermediaria'> </field>
+        <field name='destinacao'> </field>
+        <field name='observacoes'>Eliminar, após 2 anos, os documentos referentes aos eventos não efetivados.</field>
+        <field name='indice'>150</field>
+        <field name='proximo'>151</field>
+    </row>
+    <row>
+        <field name='id'>518</field>
+        <field name='grupo'>920</field>
+        <field name='kind'>s</field>
+        <field name='assunto'>PROMOÇÃO DE VISITAS</field>
+        <field name='fase_corrente'> </field>
+        <field name='fase_intermediaria'> </field>
+        <field name='destinacao'> </field>
+        <field name='observacoes'> </field>
+        <field name='indice'>150</field>
+        <field name='proximo'>152</field>
+    </row>
+    <row>
+        <field name='id'>523</field>
+        <field name='grupo'>990</field>
+        <field name='kind'>s</field>
+        <field name='assunto'>OUTRAS AÇÕES REFERENTES À ADMINISTRAÇÃO DE ATIVIDADES ACESSÓRIAS</field>
+        <field name='fase_corrente'> </field>
+        <field name='fase_intermediaria'> </field>
+        <field name='destinacao'> </field>
+        <field name='observacoes'> </field>
+        <field name='indice'>150</field>
+        <field name='proximo'>153</field>
+    </row>
+</ROOT>

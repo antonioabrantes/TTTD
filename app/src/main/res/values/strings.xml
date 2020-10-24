@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">TTDD meio</string>
+    <string name="item_inicio">Início</string>
+    <string name="item_pesquisa">Pesquisa</string>
+    <string name="item_onosmatico">Onosmático</string>
+    <string name="item_equiv">Tabela de Equivalência</string>
+    <string name="item_busca_equiv">Busca Equivalência</string>
+    <string name="item_about">Informações</string>
+    <string name="item_sair">Sair</string>
+    <string name="item_ajuda">Ajuda</string>
+    <string name="menu_esquema">Código de \n Classificação</string>
+    <string name="menu_remissivo">Índice \n Remissivo</string>
+    <string name="menu_busca">Busca</string>
+    <string name="menu_sobre">Informações</string>
+    <string name="menu_equivalencia">Tabela de \n Equivalência</string>
+    <string name="menu_buscaEquivalencia">Busca de \n Equivalência</string>
+    <string name="searchURL">https://www.google.com</string>
+    <string name="pesquisar">Digite o código documental, p.ex 023.11</string>
+    <string name="pesquisarEquiv1">Digite o código documental antigo (Resolução n° 14/2001 do Conarq - revogada) e pressione o botão para obter o código atual</string>
+    <string name="pesquisarEquiv2">Digite o código documental atual (Portaria n° 47/2020 do Arquivo Nacional - em vigor) e pressione o botão para obter o código antigo</string>
+    <string name="pesquisar_word">Pesquisar palavra na tabela, p. ex. Compra</string>
+    <string name="procure">Procure</string>
+    <string name="procureEquiv1">Procure</string>
+    <string name="procureEquiv2">Procure</string>
+    <string name="procure_palavra">Procure Palavra</string>
+    <string name="stripc">Tabela de Temporalidade de Destinação de Documentos TTDD - Atividade Meio (Portaria n° 47/2020 do Arquivo Nacional)</string>
+    <string name="about1">Este app foi desenvolvido por Antonio Abrantes e Paula Cotrim de Abrantes - 2020</string>
+    <string name="about2">contacte: contatottdd@gmail.com</string>
+    <string name="about3"></string>
+    <string name="about5">Colabore com este projeto</string>
+    <string name="strAjuda">Guia do Usuário: o TTDD meio (Tabela de Temporalidade e Destinação de Documentos) é um aplicativo que possibilita
+     a navegação pelo esquema de temporalidade e pelo índice de assuntos com recursos de busca.
+     Para visualizar a tela de entrada com as funções do aplicativo selecione a função Casa que aparece no menu superior.
+     O primeiro item da tela de entrada permite navegar pelo Código de Classificação. Você pode navegar pelas classes, subclasses, grupos e subgrupos podendo retornar à tela
+     anterior clicando na primeira opção da lista de seleção.\n\n
+     Para ver a temporalidade da opção desejada basta manter a sua seleção por dois segundos, ou seja,
+     ao invés de um clique simples de seleção procure prolongar uma pouco mais nesta mesma opção para o que o
+     aplicativo possa mostrar na próxima tela as informações de temporalidade.\n\n
+        Na tela temporalidade o usuário dispõe de um botão para ver a Nota Explicativa respectiva daquele código.\n\n
+     Escolha a lupa do menu principal ou na tela de entrada para procurar por uma classificação ou por uma palavra específica no campo "Assunto" da tabela de
+        temporalidade independentemente do índice de assuntos.
+     Para visualização do índice de assuntos basta selecionar o único "A" que aparece no menu superior ou na tela de entrada.\n\n
+        No índice de assuntos sempre que uma palavra chave tiver a indicação à direita de uma classificação, ao clicar nesta opção
+        você será levado à classificação selecionada. Caso não haja nenhuma classificação à direita após um tracejado, então
+        você ao clicar nesta opção, deve ser levado ao próximo nível da hierarquia.\n\n
+        Na busca de equivalência na tela principal você pode realizar uma busca por código na tabela atual (Portaria n° 47/2020 do
+        Arquivo Nacional) partindo do código
+        antigo segundo a Resolução n° 14/2001 do Conarq (revogada). O usuário pode fazer a busca no sentido inverso também: a partir do código
+        da tabela
+        atual saber qual o equivalente na tabela antiga, segundo a tabela de Equivalência divulgada pelo Arquivo Nacional. \n\n
+        Na tela de entrada você dispõe de acesso a tabela de equivalência completa onde ao clicar num código selecionado você
+        será levado para a tela que mostra o código novo\n\n
+        Para sair do apliativo basta selecionar a opção de saida no menu lateral para que todas as janelas sejam fechadas e o aplicativo
+        encerrado.\n\n\n\n .
+
+    </string>
+
+</resources>

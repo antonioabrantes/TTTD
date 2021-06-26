@@ -2889,131 +2889,677 @@
     <row>
         <field name='id'>482</field>
         <field name='symbol'>080</field>
-        <field name='assunto'>PESSOAL MILITAR - Anexo 1</field>
+        <field name='assunto'>PESSOAL MILITAR</field>
         <field name='observacoes'> </field>
     </row>
     <row>
         <field name='id'>483</field>
+        <field name='symbol'>080.1</field>
+        <field name='assunto'>LEGISLAÇÃO</field>
+        <field name='observacoes'>Incluem-se atos normativos internos, tais como: normas, avisos, portarias (de caráter geral), bem como os boletins (administrativo, de pessoal e de serviço), diretrizes, procedimentos, pareceres, estudos e/ou decisões de caráter geral.</field>
+    </row>
+    <row>
+        <field name='id'>484</field>
+        <field name='symbol'>080.2</field>
+        <field name='assunto'>IDENTIFICAÇÃO MILITAR</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>485</field>
+        <field name='symbol'>080.21</field>
+        <field name='assunto'>IDENTIDADE MILITAR. CARTEIRA. CARTÃO</field>
+        <field name='observacoes'>Incluem-se documentos referentes à produção da identificação militar: guia de remessa de material de identificação, mapa mensal do material técnico, ficha de identidade grande, ficha individual datiloscópica, cartão índice, identidade provisória, ficha de dados cadastrais.</field>
+    </row>
+    <row>
+        <field name='id'>486</field>
+        <field name='symbol'>080.22</field>
+        <field name='assunto'>CONCESSÃO DE PASSAPORTE: DIPLOMÁTICO E/OU OFICIAL</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>487</field>
+        <field name='symbol'>080.3</field>
+        <field name='assunto'>ASSENTAMENTOS INDIVIDUAIS. CADASTRO</field>
+        <field name='observacoes'>Incluem-se folhas de alterações, caderneta registro cadastro, caderneta sanitária, declaração / cadastro de dependentes, declaração/ alteração de beneficiários, ficha de apresentação, ficha individual, ficha padrão PASEP, termo de opção ou de retificação da licença especial, ficha de código de especialidade e termo de renúncia de pensão militar, bem como os documentos referentes à contagem de tempo de serviço e à concessão e cessação de porte de arma.</field>
+    </row>
+    <row>
+        <field name='id'>488</field>
+        <field name='symbol'>081</field>
+        <field name='assunto'>INGRESSO NAS FORÇAS ARMADAS</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>489</field>
+        <field name='symbol'>081.1</field>
+        <field name='assunto'>RECRUTAMENTO. SELEÇÃO.</field>
+        <field name='observacoes'>Incluem-se documentos produzidos em fases anteriores a incorporação: edital de concursos e orientações específicas, inscrição para concurso, questionário biográfico simplificado, seleção e designação para incorporação e matrícula, cronograma de realização de provas, material de divulgação, controle da aplicação das provas, nomeação e termo de compromisso de banca de provas, lista de candidatos, relatórios e atas dos processos seletivos, provas escritas, práticas e orais (exemplares únicos), gabaritos, resultados das provas, relação dos candidatos aprovados, recursos, instruções complementares de convocação e de sistema de serviço militar, seleção para ingresso na carreira militar: testes, provas de títulos, cartões respostas de testes ou provas do candidato. - Ordenar os documentos por tipo de concurso.</field>
+    </row>
+    <row>
+        <field name='id'>490</field>
+        <field name='symbol'>081.2</field>
+        <field name='assunto'>INCORPORAÇÃO</field>
+        <field name='observacoes'>Incluem-se documentos referentes a ingresso do convocado ou voluntário, militar da reserva ou civil, em uma organização militar (OM) a qual fique vinculado de modo permanente, independente de horário, e com os encargos inerentes à referida organização: convocação à incorporação para prestar o serviço militar obrigatório, seja o serviço militar inicial ou outras formas posteriores, atos de convocação à incorporação, alistamento, dispensa ou isenção do serviço militar, estágios. Quanto aos atos normativos referentes ao plano geral de convocação e às instruções complementares, classificar em 080.1. Quanto à designação para o serviço ativo, classificar em 086.13.</field>
+    </row>
+    <row>
+        <field name='id'>491</field>
+        <field name='symbol'>081.3</field>
+        <field name='assunto'>MATRÍCULA</field>
+        <field name='observacoes'>Incluem-se documentos referentes à admissão do convocado ou voluntário em qualquer escola, centro, curso de formação de militar da ativa, ou em órgão de formação da reserva.</field>
+    </row>
+    <row>
+        <field name='id'>492</field>
+        <field name='symbol'>081.4</field>
+        <field name='assunto'>NOMEAÇÃO</field>
+        <field name='observacoes'>Incluem-se documentos referentes ao ato pelo qual o convocado ou voluntário, após a sua formação e/ou preparação, ingressa nos corpos e / ou quadros de carreira de oficiais, nos postos iniciais ou nos corpos / quadros de oficiais da reserva.</field>
+    </row>
+    <row>
+        <field name='id'>493</field>
+        <field name='symbol'>081.5</field>
+        <field name='assunto'>EXERCÍCIOS DE MOBILIZAÇÃO /APRESENTAÇÃO</field>
+        <field name='observacoes'>Incluem-se documentos referentes às campanhas de convocação, mapas de encargos de mobilização, relatórios sobre o exercício de apresentação da reserva, controle de efetivo de militares temporários (médicos, farmacêuticos, dentistas, veterinários), tiros de guerra.</field>
+    </row>
+    <row>
+        <field name='id'>494</field>
+        <field name='symbol'>081.9</field>
+        <field name='assunto'>OUTROS ASSUNTOS REFERENTES A INGRESSO NAS FORÇAS ARMADAS</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>495</field>
+        <field name='symbol'>082</field>
+        <field name='assunto'>PLANO DE CARREIRA</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>496</field>
+        <field name='symbol'>082.1</field>
+        <field name='assunto'>PROMOÇÃO</field>
+        <field name='observacoes'>Incluem-se documentos referentes aos trabalhos das Comissões de Promoção, tais como: contagem de antigüidade, propostas de posicionamento no quadro de acesso, faixa de cogitação, cogitação /inclusão no quadro de acesso, lista de escolha, ato de promoção, ressarcimento e reconsideração de ato, recontagem de pontos, correção de posição hierárquica, retificação de promoção, lista de méritos relativos, informações sobre a existência de inquéritos e ações judiciais envolvendo os avaliados, promoção post-mortem e por motivo de justiça.</field>
+    </row>
+    <row>
+        <field name='id'>497</field>
+        <field name='symbol'>082.2</field>
+        <field name='assunto'>CURSOS</field>
+        <field name='observacoes'>Incluem-se documentos referentes à habilitação do militar para a promoção.</field>
+    </row>
+    <row>
+        <field name='id'>498</field>
+        <field name='symbol'>082.21</field>
+        <field name='assunto'>FORMAÇÃO. ADAPTAÇÃO</field>
+        <field name='observacoes'>Incluem-se documentos referentes à designação, matrícula, conclusão, cancelamento,trancamento e/ou desligamento dos cursos.</field>
+    </row>
+    <row>
+        <field name='id'>499</field>
+        <field name='symbol'>082.22</field>
+        <field name='assunto'>APERFEIÇOAMENTO. ESPECIALIZAÇÃO</field>
+        <field name='observacoes'>Incluem-se documentos referentes à designação, matrícula, conclusão, cancelamento, trancamento e/ou desligamento dos cursos.</field>
+    </row>
+    <row>
+        <field name='id'>500</field>
+        <field name='symbol'>082.23</field>
+        <field name='assunto'>ESTADO-MAIOR</field>
+        <field name='observacoes'>Incluem-se documentos referentes à designação, matrícula, conclusão, cancelamento, trancamento e/ou desligamento dos cursos.</field>
+    </row>
+    <row>
+        <field name='id'>501</field>
+        <field name='symbol'>082.24</field>
+        <field name='assunto'>ALTOS ESTUDOS MILITARES</field>
+        <field name='observacoes'>Incluem-se documentos referentes à designação, matrícula, conclusão, cancelamento, trancamento e/ou desligamento dos cursos.</field>
+    </row>
+    <row>
+        <field name='id'>502</field>
+        <field name='symbol'>082.3</field>
+        <field name='assunto'>AVALIAÇÃO</field>
+        <field name='observacoes'>Incluem-se documentos referentes à avaliação e desempenho de oficiais e praças, inclusive no estágio inicial.</field>
+    </row>
+    <row>
+        <field name='id'>503</field>
+        <field name='symbol'>082.4</field>
+        <field name='assunto'>REQUISITOS ESPECÍFICOS DE CARREIRA</field>
+        <field name='observacoes'>Incluem-se documentos referentes à manobra, tempo de tropa, tempo de embarque, vivência nacional, dias de mar, atividade bélica, horas de vôo.</field>
+    </row>
+    <row>
+        <field name='id'>504</field>
+        <field name='symbol'>082.5</field>
+        <field name='assunto'>CURSOS COMPLEMENTARES</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>505</field>
+        <field name='symbol'>082.51</field>
+        <field name='assunto'>ADESTRAMENTO</field>
+        <field name='observacoes'>Incluem-se documentos referentes à designação, matrícula, conclusão, cancelamento, trancamento e/ou desligamento dos diversos tipos de adestramentos.</field>
+    </row>
+    <row>
+        <field name='id'>506</field>
+        <field name='symbol'>082.52</field>
+        <field name='assunto'>PÓS-GRADUAÇÃO LATO SENSU(Aperfeiçoamento e Especialização)</field>
+        <field name='observacoes'>Incluem-se documentos referentes à designação, matrícula, conclusão, cancelamento, trancamento e/ou desligamento dos cursos.</field>
+    </row>
+    <row>
+        <field name='id'>507</field>
+        <field name='symbol'>082.53</field>
+        <field name='assunto'>QUALIFICAÇÃO TÉCNICA ESPECIAL</field>
+        <field name='observacoes'>Incluem-se documentos referentes à designação, matrícula, conclusão, cancelamento, trancamento e/ou desligamento dos cursos.</field>
+    </row>
+    <row>
+        <field name='id'>508</field>
+        <field name='symbol'>082.54</field>
+        <field name='assunto'>PÓS-GRADUAÇÃO STRICTO SENSU (Mestrado e Doutorado)</field>
+        <field name='observacoes'>Incluem-se documentos referentes à designação, matrícula, conclusão, cancelamento, trancamento e/ou desligamento dos cursos.</field>
+    </row>
+    <row>
+        <field name='id'>509</field>
+        <field name='symbol'>082.55</field>
+        <field name='assunto'>PÓS-DOUTORADO</field>
+        <field name='observacoes'>Incluem-se documentos referentes à designação, matrícula, conclusão, cancelamento, trancamento e/ou desligamento dos cursos.</field>
+    </row>
+    <row>
+        <field name='id'>510</field>
+        <field name='symbol'>082.6</field>
+        <field name='assunto'>PRORROGAÇÃO DE TEMPO DE SERVIÇO. REENGAJAMENTO</field>
+        <field name='observacoes'>Incluem-se requerimentos, avaliações, pareceres e despachos.</field>
+    </row>
+    <row>
+        <field name='id'>511</field>
+        <field name='symbol'>082.7</field>
+        <field name='assunto'>TRANSPOSIÇÃO DE QUADRO</field>
+        <field name='observacoes'>Incluem-se requerimentos, avaliações, pareceres e despachos.</field>
+    </row>
+    <row>
+        <field name='id'>512</field>
+        <field name='symbol'>082.9</field>
+        <field name='assunto'>OUTROS ASSUNTOS REFERENTES A PLANO DE CARREIRA</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>513</field>
+        <field name='symbol'>083</field>
+        <field name='assunto'>MOVIMENTAÇÃO. DESTAQUE. ADIÇÃO. EXCLUSÃO DO SERVIÇO ATIVO</field>
+        <field name='observacoes'>Incluem-se planos de movimentação e mapas de lotação de oficiais e praças. - Quanto aos atos de agregação e reversão, classificar no assunto específico.</field>
+    </row>
+    <row>
+        <field name='id'>514</field>
+        <field name='symbol'>083.1</field>
+        <field name='assunto'>MOVIMENTAÇÃO</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>515</field>
+        <field name='symbol'>083.11</field>
+        <field name='assunto'>MOTIVO DE SAÚDE</field>
+        <field name='observacoes'>Incluem-se documentos referentes à solicitação da movimentação, inclusive cópia da ata e o termo de inspeção de saúde.</field>
+    </row>
+    <row>
+        <field name='id'>516</field>
+        <field name='symbol'>083.12</field>
+        <field name='assunto'>INTERESSE DO MILITAR</field>
+        <field name='observacoes'>Incluem-se documentos referentes à solicitação da movimentação inclusive ordem e portaria de movimentação.</field>
+    </row>
+    <row>
+        <field name='id'>517</field>
+        <field name='symbol'>083.13</field>
+        <field name='assunto'>NECESSIDADE DO SERVIÇO</field>
+        <field name='observacoes'>Incluem-se proposta de plano de movimentação, solicitações dos Órgãos de Direção-Geral ou Setorial, movimentação por incompatibilidade de posto, matrícula, término de curso, intercâmbio e a bem da disciplina.</field>
+    </row>
+    <row>
+        <field name='id'>518</field>
+        <field name='symbol'>083.14</field>
+        <field name='assunto'>MOTIVO DE JUSTIÇA</field>
+        <field name='observacoes'>Incluem-se documentos referentes ao cumprimento da ordem judicial.</field>
+    </row>
+    <row>
+        <field name='id'>519</field>
+        <field name='symbol'>083.2</field>
+        <field name='assunto'>DESTAQUE. ADIÇÃO</field>
+        <field name='observacoes'>Incluem-se documentos referentes à situação de permanência temporária em uma Organização Militar.</field>
+    </row>
+    <row>
+        <field name='id'>520</field>
+        <field name='symbol'>083.3</field>
+        <field name='assunto'>EXCLUSÃO DO SERVIÇO ATIVO</field>
+        <field name='observacoes'>- Quanto à transferência para a reserva remunerada, reserva não remunerada e reforma, classificar em 086.111, 086.112 e 086.12 respectivamente. - Ordenar por: a bem da disciplina anulação de incorporação demissão deserção desincorporação extravio falecimento licenciamento perda do posto e da patente</field>
+    </row>
+    <row>
+        <field name='id'>521</field>
+        <field name='symbol'>083.9</field>
+        <field name='assunto'>OUTROS ASSUNTOS REFERENTES À MOVIMENTAÇÃO. DESTAQUE. ADIÇÃO. EXCLUSÃO DO SERVIÇO ATIVO</field>
+        <field name='observacoes'>Incluem-se documentos referentes à posse e nomeação para cargos públicos.</field>
+    </row>
+    <row>
+        <field name='id'>522</field>
+        <field name='symbol'>084</field>
+        <field name='assunto'>VIOLAÇÃO DAS OBRIGAÇÕES E DOS DEVERES</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>523</field>
+        <field name='symbol'>084.1</field>
+        <field name='assunto'>TRANSGRESSÕES E/OU CONTRAVENÇÕES DISCIPLINARES</field>
+        <field name='observacoes'>Incluem-se documentos referentes à sindicância, acareação e apuração das transgressões e/ou contravenções, bem como aplicação das punições disciplinares.</field>
+    </row>
+    <row>
+        <field name='id'>524</field>
+        <field name='symbol'>084.2</field>
+        <field name='assunto'>CRIMES MILITARES</field>
+        <field name='observacoes'>Incluem-se documentos referentes aos crimes militares, tais como: portaria de nomeação do encarregado e escrivão do IPM, solução do IPM e ofício de remessa do IPM à Justiça Militar. - Quanto aos autos dos Inquéritos Policiais Militares (IPM), serão encaminhados à Justiça Militar.</field>
+    </row>
+    <row>
+        <field name='id'>525</field>
+        <field name='symbol'>084.3</field>
+        <field name='assunto'>CONSELHOS</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>526</field>
+        <field name='symbol'>084.31</field>
+        <field name='assunto'>DE DISCIPLINA</field>
+        <field name='observacoes'>Incluem-se a nomeação dos membros do conselho, atos de afastamento do acusado, autos do conselho, conclusões e decisões.</field>
+    </row>
+    <row>
+        <field name='id'>527</field>
+        <field name='symbol'>084.32</field>
+        <field name='assunto'>DE JUSTIFICAÇÃO</field>
+        <field name='observacoes'>Incluem-se a nomeação dos membros do conselho, atos de afastamento do justificante, autos do conselho, conclusões e decisões.</field>
+    </row>
+    <row>
+        <field name='id'>528</field>
+        <field name='symbol'>085</field>
+        <field name='assunto'>DIREITOS E PRERROGATIVAS</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>529</field>
+        <field name='symbol'>085.1</field>
+        <field name='assunto'>RECOMPENSAS. DISTINÇÕES. HONRARIAS</field>
+        <field name='observacoes'>Incluem-se documentos referentes aos prêmios de honra ao mérito, elogios, louvores, referências elogiosas, distintivos e dispensas de serviço, bem como as relações de agraciados com as condecorações por serviços prestados na paz e na guerra (medalhas e diplomas) e as relações daqueles que tiveram as condecorações cassadas. - Ordenar os documentos por tipo de recompensa.</field>
+    </row>
+    <row>
+        <field name='id'>530</field>
+        <field name='symbol'>085.2</field>
+        <field name='assunto'>LICENÇAS</field>
+        <field name='observacoes'>Ordenar por: adotante candidato a cargo eletivo especial gestante para acompanhar o cônjuge / companheiro(a) para tratamento de saúde de pessoa da família para tratamento de saúde própria para tratar de interesse particular paternidade</field>
+    </row>
+    <row>
+        <field name='id'>531</field>
+        <field name='symbol'>085.3</field>
+        <field name='assunto'>AFASTAMENTOS</field>
+        <field name='observacoes'>Ordenar por: instalação (no Brasil e no exterior) luto núpcias trânsito (no Brasil e no exterior)</field>
+    </row>
+    <row>
+        <field name='id'>532</field>
+        <field name='symbol'>085.4</field>
+        <field name='assunto'>DISPENSAS DE SERVIÇO</field>
+        <field name='observacoes'>Ordenar por: para desconto em férias por prescrição médica Quanto às dispensas de serviço como recompensa, classificar em 085.1.</field>
+    </row>
+    <row>
+        <field name='id'>533</field>
+        <field name='symbol'>085.5</field>
+        <field name='assunto'>FÉRIAS</field>
+        <field name='observacoes'>Incluem-se documentos referentes ao planejamento, solicitação, concessão, cancelamento e publicação de férias no Brasil e no exterior. - Quanto ao pagamento de adicional de férias e à remuneração de férias, classificar em 085.619.</field>
+    </row>
+    <row>
+        <field name='id'>534</field>
+        <field name='symbol'>085.6</field>
+        <field name='assunto'>REMUNERAÇÃO. PROVENTOS</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>535</field>
+        <field name='symbol'>085.61</field>
+        <field name='assunto'>REMUNERAÇÃO NA ATIVA</field>
+        <field name='observacoes'>inclusive fichas financeiras e folhas de pagamento</field>
+    </row>
+    <row>
+        <field name='id'>536</field>
+        <field name='symbol'>085.611</field>
+        <field name='assunto'>ADICIONAIS</field>
+        <field name='observacoes'>- Ordenar por: de compensação orgânica de habilitação de permanência de tempo de serviço militar</field>
+    </row>
+    <row>
+        <field name='id'>537</field>
+        <field name='symbol'>085.612</field>
+        <field name='assunto'>GRATIFICAÇÕES</field>
+        <field name='observacoes'>- Ordenar por:  de localidade especial de representação</field>
+    </row>
+    <row>
+        <field name='id'>538</field>
+        <field name='symbol'>085.619</field>
+        <field name='assunto'>OUTROS DIREITOS REMUNERATÓRIOS NA ATIVA</field>
+        <field name='observacoes'>- Ordenar por: adicional de ferias adicional natalino ajuda de custo assistência pré-escolar auxílios: fardamento, alimentação, natalidade, invalidez, funeral e transporte compensação pecuniária diárias remuneração /adiantamento de férias retribuição no exterior salário-família transporte de pessoal e bagagens por mudança de localidade</field>
+    </row>
+    <row>
+        <field name='id'>539</field>
+        <field name='symbol'>085.62</field>
+        <field name='assunto'>PROVENTOS NA INATIVIDADE</field>
+        <field name='observacoes'>inclusive fichas financeiras e folhas de pagamento</field>
+    </row>
+    <row>
+        <field name='id'>540</field>
+        <field name='symbol'>085.621</field>
+        <field name='assunto'>ADICIONAIS</field>
+        <field name='observacoes'>- Ordenar por: de compensação orgânica de habilitação de permanência de tempo de serviço militar</field>
+    </row>
+    <row>
+        <field name='id'>541</field>
+        <field name='symbol'>085.629</field>
+        <field name='assunto'>OUTROS DIREITOS PECUNIÁRIOS NA INATIVIDADE</field>
+        <field name='observacoes'>- Ordenar por: adicional natalino adicional por designação para o serviço ativo ajuda de transporte por baixa/alta em organização hospitalar assistência pré-escolar auxílios: invalidez, natalidade e funeral pró-labore para tarefa por tempo certo salário-família</field>
+    </row>
+    <row>
+        <field name='id'>542</field>
+        <field name='symbol'>085.63</field>
+        <field name='assunto'>DESCONTOS</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>543</field>
+        <field name='symbol'>085.631</field>
+        <field name='assunto'>OBRIGATÓRIOS</field>
+        <field name='observacoes'>- Ordenar por: contribuição para a assistência médico-hospitalar e social (prestada por entidade militar) contribuição para a pensão militar impostos incidentes sobre a remuneração ou proventos indenização à Fazenda Nacional indenização pela assistência médico-hospitalar (prestada por entidade militar) multa por ocupação irregular de próprio nacional residencial pensão alimentícia ou judicial taxa de uso por ocupação de próprio nacional residencial</field>
+    </row>
+    <row>
+        <field name='id'>544</field>
+        <field name='symbol'>085.632</field>
+        <field name='assunto'>AUTORIZADOS</field>
+        <field name='observacoes'>Incluem-se documentos referentes aos descontos em favor de entidades consignatárias, de terceiros ou benefício família.</field>
+    </row>
+    <row>
+        <field name='id'>545</field>
+        <field name='symbol'>086</field>
+        <field name='assunto'>INATIVOS E PENSIONISTAS</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>546</field>
+        <field name='symbol'>086.1</field>
+        <field name='assunto'>INATIVOS</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>547</field>
+        <field name='symbol'>086.11</field>
+        <field name='assunto'>RESERVA</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>548</field>
+        <field name='symbol'>086.111</field>
+        <field name='assunto'>REMUNERADA</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>549</field>
+        <field name='symbol'>086.112</field>
+        <field name='assunto'>NÃO REMUNERADA</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>550</field>
+        <field name='symbol'>086.12</field>
+        <field name='assunto'>REFORMA</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>551</field>
+        <field name='symbol'>086.121</field>
+        <field name='assunto'>POR INVALIDEZ</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>552</field>
+        <field name='symbol'>086.122</field>
+        <field name='assunto'>POR IDADES-LIMITE</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>553</field>
+        <field name='symbol'>086.13</field>
+        <field name='assunto'>DESIGNAÇÃO PARA O SERVIÇO ATIVO</field>
+        <field name='observacoes'>Quanto à incorporação, classificar em 081.2.</field>
+    </row>
+    <row>
+        <field name='id'>554</field>
+        <field name='symbol'>086.14</field>
+        <field name='assunto'>TAREFA POR TEMPO CERTO</field>
+        <field name='observacoes'>Incluem-se os documentos referentes à designação para tarefa por tempo certo. Quanto ao pró-labore para tarefa por tempo certo, classificar em: 085.629.</field>
+    </row>
+    <row>
+        <field name='id'>555</field>
+        <field name='symbol'>086.2</field>
+        <field name='assunto'>PENSIONISTAS</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>556</field>
+        <field name='symbol'>086.21</field>
+        <field name='assunto'>PENSÕES</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>557</field>
+        <field name='symbol'>086.211</field>
+        <field name='assunto'>TEMPORÁRIA</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>558</field>
+        <field name='symbol'>086.212</field>
+        <field name='assunto'>VITALÍCIA</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>559</field>
+        <field name='symbol'>086.213</field>
+        <field name='assunto'>ESPECIAL</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>560</field>
+        <field name='symbol'>087</field>
+        <field name='assunto'>ASSISTÊNCIA</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>561</field>
+        <field name='symbol'>087.1</field>
+        <field name='assunto'>MÉDICA</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>562</field>
+        <field name='symbol'>087.11</field>
+        <field name='assunto'>HOSPITALAR</field>
+        <field name='observacoes'>Incluem-se documentos referentes a atendimento ambulatorial ou pronto-atendimento, bem como prontuários médicos e fichas odontológicas.</field>
+    </row>
+    <row>
+        <field name='id'>563</field>
+        <field name='symbol'>087.12</field>
+        <field name='assunto'>PERICIAL</field>
+        <field name='observacoes'>Incluem-se documentos referentes ao controle e verificação do estado de higidez (em estado saudável) do pessoal em serviço ativo, inativo e a ser selecionado para ingresso nas Forças Armadas, atestado sanitário de origem, inquérito sanitário de origem, resultado de exames, auto de corpo de delito, atas de inspeção de saúde, bem como os processos de perícia médica para reforma, isenção de imposto de renda, melhoria de reforma e movimentação por motivo de saúde. - Quanto à solicitação de amparo do Estado (reforma por invalidez), classificar em 086.121.</field>
+    </row>
+    <row>
+        <field name='id'>564</field>
+        <field name='symbol'>087.2</field>
+        <field name='assunto'>SOCIAL</field>
+        <field name='observacoes'>Incluem-se documentos referentes ao desenvolvimento dos programas de assistência social com vistas à concessão de licenças e benefícios, bem como os documentos relativos aos atendimentos educacionais e assistenciais prestados por empresas conveniadas. - Quanto às indenizações e aos descontos relativos à assistência social prestada, classificar em 085.631 e/ou 085.632.</field>
+    </row>
+    <row>
+        <field name='id'>565</field>
+        <field name='symbol'>087.3</field>
+        <field name='assunto'>JURÍDICA</field>
+        <field name='observacoes'>Incluem-se documentos referentes a orientação de caráter particular, para esclarecimento de direitos e deveres, e casos que requeiram postulação em juízo, bem como aos atendimentos jurídicos prestados por empresas conveniadas.</field>
+    </row>
+    <row>
+        <field name='id'>566</field>
+        <field name='symbol'>087.4</field>
+        <field name='assunto'>PSICOLÓGICA</field>
+        <field name='observacoes'>Incluem-se documentos referentes a triagem para encaminhamento ao serviço de saúde específico ou orientação e aconselhamento psicológico, bem como aos atendimentos psicológicos prestados por empresas conveniadas.</field>
+    </row>
+    <row>
+        <field name='id'>567</field>
+        <field name='symbol'>087.5</field>
+        <field name='assunto'>RELIGIOSA</field>
+        <field name='observacoes'>Incluem-se documentos referentes aos processos de habilitação e registros de casamento, batizado e crisma, livro tombo bem como aqueles decorrentes do censo religioso e de outras atividades religiosas.</field>
+    </row>
+    <row>
+        <field name='id'>568</field>
+        <field name='symbol'>088</field>
+        <field name='assunto'>( VAGA )</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>569</field>
+        <field name='symbol'>089</field>
+        <field name='assunto'>OUTROS ASSUNTOS REFERENTES A PESSOAL MILITAR</field>
+        <field name='observacoes'> </field>
+    </row>
+    <row>
+        <field name='id'>570</field>
+        <field name='symbol'>089.1</field>
+        <field name='assunto'>SERVIÇOS DE ESCALA</field>
+        <field name='observacoes'>Inclusive escalas de serviço</field>
+    </row>
+    <row>
+        <field name='id'>571</field>
+        <field name='symbol'>089.2</field>
+        <field name='assunto'>TABELAS MESTRAS</field>
+        <field name='observacoes'>Inclusive tabelas gerais e individuais</field>
+    </row>
+    <row>
+        <field name='id'>572</field>
+        <field name='symbol'>089.3</field>
+        <field name='assunto'>CONTROLE DE FREQUÊNCIA</field>
+        <field name='observacoes'>Incluem-se fichas de controle de efetivos e livros de licenciados.</field>
+    </row>
+    <row>
+        <field name='id'>573</field>
+        <field name='symbol'>089.4</field>
+        <field name='assunto'>DELEGAÇÕES DE COMPETÊNCIA</field>
+        <field name='observacoes'>Incluem-se documentos referentes às delegações de competência, tais como: atos de delegação e relações de encargos colaterais.</field>
+    </row>
+    <row>
+        <field name='id'>574</field>
         <field name='symbol'>090</field>
         <field name='assunto'>VAGA</field>
         <field name='observacoes'> </field>
     </row>
     <row>
-        <field name='id'>484</field>
+        <field name='id'>575</field>
         <field name='symbol'>900</field>
         <field name='assunto'>ADMINISTRAÇÃO DE ATIVIDADES ACESSÓRIAS</field>
         <field name='observacoes'>Esta classe contempla documentos referentes ao desenvolvimento de atividades complementares, normalmente, vinculadas às atividades-meio, mas que não são essenciais para o funcionamento e cumprimento das competências finalísticas do órgão e entidade.</field>
     </row>
     <row>
-        <field name='id'>485</field>
+        <field name='id'>576</field>
         <field name='symbol'>910</field>
         <field name='assunto'>GESTÃO DE EVENTOS</field>
         <field name='observacoes'>Nas subdivisões deste descritor classificam-se documentos referentes à gestão dos eventos promovidos e realizados pelo órgão e entidade, como: solenidades, comemorações, homenagens, congressos, conferências, seminários, simpósios, jornadas, oficinas, encontros, convenções, ciclos de palestras, mesas redondas, feiras, salões, exposições, mostras, exibição de filmes e vídeos, lançamentos de livros, festas e concursos culturais. Quanto aos documentos referentes aos eventos promovidos e realizados pelo órgão e entidade a partir do desenvolvimento de alguma atividade finalística, classificar no código específico. Quanto às atividades de comunicação social no âmbito externo, classificar nas subdivisões do código 019.11.</field>
     </row>
     <row>
-        <field name='id'>486</field>
+        <field name='id'>577</field>
         <field name='symbol'>910.01</field>
         <field name='assunto'>NORMATIZAÇÃO. REGULAMENTAÇÃO</field>
         <field name='observacoes'>Incluem-se documentos referentes às determinações legais, aos atos e instruções normativas, aos procedimentos operacionais e às decisões de caráter geral sobre a gestão de eventos promovidos e realizados pelo órgão e entidade.</field>
     </row>
     <row>
-        <field name='id'>487</field>
+        <field name='id'>578</field>
         <field name='symbol'>911</field>
         <field name='assunto'>PLANEJAMENTO E PROGRAMAÇÃO</field>
         <field name='observacoes'>Incluem-se documentos referentes ao planejamento e à programação do evento, tais como: a definição do tema, a programa prévio e final, a lista de palestrantes e convidados, o cronograma das atividades (dias, horários e sessões), as instruções para participantes e ouvintes, os contatos com parcerias, patrocinadores e fornecedores e a disponibilização de informações turísticas e sobre hospedagem, alimentação e transporte.</field>
     </row>
     <row>
-        <field name='id'>488</field>
+        <field name='id'>579</field>
         <field name='symbol'>912</field>
         <field name='assunto'>DIVULGAÇÃO</field>
         <field name='observacoes'>Incluem-se documentos referentes à divulgação dos eventos, tais como: fôlderes, cartazes, folhetos, chamadas nas redes sociais e anúncios nas mídias de comunicação impressas e eletrônicas.</field>
     </row>
     <row>
-        <field name='id'>489</field>
+        <field name='id'>580</field>
         <field name='symbol'>913</field>
         <field name='assunto'>INSCRIÇÃO E CONTROLE DE FREQUÊNCIA</field>
         <field name='observacoes'>Incluem-se fichas de inscrição, cadastro ou relação de inscritos e listas de presença dos participantes nos eventos.</field>
     </row>
     <row>
-        <field name='id'>490</field>
+        <field name='id'>581</field>
         <field name='symbol'>914</field>
         <field name='assunto'>EMISSÃO DE CERTIFICADOS</field>
         <field name='observacoes'>Incluem-se documentos referentes à expedição, registro e controle da entrega do certificado aos participantes nos eventos.</field>
     </row>
     <row>
-        <field name='id'>491</field>
+        <field name='id'>582</field>
         <field name='symbol'>915</field>
         <field name='assunto'>AVALIAÇÃO DOS RESULTADOS</field>
         <field name='observacoes'>Incluem-se documentos referentes à avaliação dos resultados alcançados pelos eventos, tais como: formulários de avaliação e relatórios parciais e finais.</field>
     </row>
     <row>
-        <field name='id'>492</field>
+        <field name='id'>583</field>
         <field name='symbol'>916</field>
         <field name='assunto'>HABILITAÇÃO, JULGAMENTO E RECURSOS</field>
         <field name='observacoes'>Incluem-se documentos referentes à habilitação dos candidatos inscritos nos prêmios e nos concursos culturais, ao julgamento dos trabalhos concorrentes, ao desempenho dos participantes e aos recursos apresentados aos resultados do julgamento, bem como os trabalhos inscritos e as atas de julgamento.</field>
     </row>
     <row>
-        <field name='id'>493</field>
+        <field name='id'>584</field>
         <field name='symbol'>917</field>
         <field name='assunto'>PREMIAÇÃO</field>
         <field name='observacoes'>Incluem-se documentos referentes a entrega da premiação aos candidatos vencedores dos concursos culturais, tais como: termo de entrega e recebimento e termo de cessão de direitos autorais.</field>
     </row>
     <row>
-        <field name='id'>494</field>
+        <field name='id'>585</field>
         <field name='symbol'>918</field>
         <field name='assunto'>CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS</field>
         <field name='observacoes'>Incluem-se documentos referentes à contratação de empresas terceirizadas para a realização de serviços de locação de espaço, locação de mobiliário, fornecimento de bufê, cerimonial e tradução simultânea a serem prestados sob o regime de execução indireta, tais como: planejamento da contratação (estudos preliminares, gerenciamento de riscos e termo de referência ou projeto básico), divulgação (publicação de editais), seleção do fornecedor (adjudicação, homologação, formalização e publicação do contrato), indicação e designação do gestor e dos fiscais da execução do contrato para acompanhamento, fiscalização (técnica, administrativa, setorial e pelo público usuário), avaliação e aferição dos resultados previstos na contratação e demais documentos comprobatórios da prestação dos serviços, relatórios, notas fiscais e faturas. Nota: A contratação de prestação de serviços poderá ocorrer nas modalidades de licitação (convite, tomada de preços, concorrência, leilão, concurso e pregão), dispensa de licitação e inexigibilidade de licitação. Quanto ao uso de dependências do órgão e entidade, por terceiros, mediante locação, arrendamento mercantil (leasing) e sublocação, classificar no código 041.61.</field>
     </row>
     <row>
-        <field name='id'>495</field>
+        <field name='id'>586</field>
         <field name='symbol'>919</field>
         <field name='assunto'>OUTRAS AÇÕES REFERENTES À GESTÃO DE EVENTOS</field>
         <field name='observacoes'>Na subdivisão deste descritor classificam-se documentos referentes a outras ações de gestão de eventos não contempladas nos descritores anteriores.</field>
     </row>
     <row>
-        <field name='id'>496</field>
+        <field name='id'>587</field>
         <field name='symbol'>919.1</field>
         <field name='assunto'>PARTICIPAÇÃO EM EVENTOS PROMOVIDOS E REALIZADOS POR OUTRAS INSTITUIÇÕES</field>
         <field name='observacoes'>Incluem-se documentos referentes à participação do servidor em eventos promovidos por outras instituições, tais como: comprovantes da inscrição e da participação no evento, discursos, palestras e trabalhos apresentados. Quanto aos documentos comprobatórios de participação do servidor, que deverão integrar o assentamento funcional, classificar nas subdivisões do código 020.1.</field>
     </row>
     <row>
-        <field name='id'>497</field>
+        <field name='id'>588</field>
         <field name='symbol'>920</field>
         <field name='assunto'>PROMOÇÃO DE VISITAS</field>
         <field name='observacoes'>Nas subdivisões deste descritor classificam-se os documentos referentes à promoção de visitas culturais, educativas e técnicas ao órgão e entidade.</field>
     </row>
     <row>
-        <field name='id'>498</field>
+        <field name='id'>589</field>
         <field name='symbol'>920.01</field>
         <field name='assunto'>NORMATIZAÇÃO. REGULAMENTAÇÃO</field>
         <field name='observacoes'>Incluem-se documentos referentes às determinações legais, aos atos e instruções normativas, aos procedimentos operacionais e às decisões de caráter geral sobre a promoção de visitas ao órgão e entidade.</field>
     </row>
     <row>
-        <field name='id'>499</field>
+        <field name='id'>590</field>
         <field name='symbol'>921</field>
         <field name='assunto'>PROGRAMAÇÃO DE VISITAS</field>
         <field name='observacoes'>Incluem-se documentos referentes ao atendimento de solicitação de visitas ao órgão e entidade, bem como aqueles referentes ao planejamento e à programação de visitas monitoradas, dirigidas a diferentes públicos.</field>
     </row>
     <row>
-        <field name='id'>500</field>
+        <field name='id'>591</field>
         <field name='symbol'>922</field>
         <field name='assunto'>CONTROLE DE VISITAS E VISITANTES</field>
         <field name='observacoes'>Incluem-se documentos referentes ao controle da entrada de visitantes e ao acompanhamento dos mesmos por ocasião das visitas.</field>
     </row>
     <row>
-        <field name='id'>501</field>
+        <field name='id'>592</field>
         <field name='symbol'>990</field>
         <field name='assunto'>OUTRAS AÇÕES REFERENTES À ADMINISTRAÇÃO DE ATIVIDADES ACESSÓRIAS</field>
         <field name='observacoes'>Nas subdivisões deste descritor classificam-se documentos referentes às comunicações ocasionais e genéricas efetuadas pelo órgão e entidade no relacionamento com outras instituições públicas e privadas e que não dizem respeito ao desenvolvimento de suas atividades específicas.</field>
     </row>
     <row>
-        <field name='id'>502</field>
+        <field name='id'>593</field>
         <field name='symbol'>991</field>
         <field name='assunto'>GESTÃO DE COMUNICAÇÕES EVENTUAIS</field>
         <field name='observacoes'>Incluem-se comunicados, informes, pedidos, solicitações e oferecimentos, trocados entre o órgão e entidade e demais instituições públicas e privadas, que tratam de temas não contemplados nas atividades finalísticas e que não tiveram solução de continuidade, como por exemplo: apresentação e recomendação de pessoas e de profissionais, comunicado de falecimento e envio de pêsames, informe de posse, afastamento e mudança de titular, comunicados de alterações de telefones e endereços, informe de luto oficial, envio de cumprimentos e felicitações, recebimento de convites para solenidade e eventos diversos. Quanto às solicitações de informações efetuadas pelos cidadãos por meio do SIC, classificar nas subdivisões do código 002.1. Quanto aos elogios e reclamações recebidos pela ouvidoria e outros canais de comunicação, classificar no código 002.2.</field>
     </row>
     <row>
-        <field name='id'>503</field>
+        <field name='id'>594</field>
         <field name='symbol'>992</field>
         <field name='assunto'>RELACIONAMENTO COM ASSOCIAÇÕES CULTURAIS, DE AMIGOS E DE SERVIDORES</field>
         <field name='observacoes'>Incluem-se documentos referentes ao relacionamento do órgão e entidade com associações culturais, de amigos e de servidores.</field>

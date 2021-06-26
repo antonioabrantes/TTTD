@@ -1,0 +1,3139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT>
+    <row>
+        <field name='id'>1</field>
+        <field name='symbol1'>000</field>
+        <field name='assunto1'>Administração Geral</field>
+        <field name='symbol2'>000</field>
+        <field name='assunto2'>Administração Geral</field>
+    </row>
+    <row>
+        <field name='id'>2</field>
+        <field name='symbol1'>001</field>
+        <field name='assunto1'>Modernização e Reforma administrativa</field>
+        <field name='symbol2'>011</field>
+        <field name='assunto2'>Organização administrativa</field>
+    </row>
+    <row>
+        <field name='id'>3</field>
+        <field name='symbol1'>002</field>
+        <field name='assunto1'>Planos programas e projetos de trabalho</field>
+        <field name='symbol2'>015.1</field>
+        <field name='assunto2'>Planejamento institucional</field>
+    </row>
+    <row>
+        <field name='id'>4</field>
+        <field name='symbol1'>003</field>
+        <field name='assunto1'>Relatórios de atividades</field>
+        <field name='symbol2'>015.2</field>
+        <field name='assunto2'>Acompanhamento das atividades</field>
+    </row>
+    <row>
+        <field name='id'>5</field>
+        <field name='symbol1'>004</field>
+        <field name='assunto1'>Acordos. Ajustes. Contratos. Convênios</field>
+        <field name='symbol2'>001</field>
+        <field name='assunto2'>Relação interinstitucional</field>
+    </row>
+    <row>
+        <field name='id'>6</field>
+        <field name='symbol1'>010</field>
+        <field name='assunto1'>Organização e funcionamento</field>
+        <field name='symbol2'>010</field>
+        <field name='assunto2'>Organização e funcionamento</field>
+    </row>
+    <row>
+        <field name='id'>7</field>
+        <field name='symbol1'>010.1</field>
+        <field name='assunto1'>Registro nos órgãos competentes</field>
+        <field name='symbol2'>012</field>
+        <field name='assunto2'>Habilitação jurídica e regularização fiscal</field>
+    </row>
+    <row>
+        <field name='id'>8</field>
+        <field name='symbol1'>010.2</field>
+        <field name='assunto1'>Regimentos. Regulamentos. Estatutos. Organogramas. Estruturas</field>
+        <field name='symbol2'>011</field>
+        <field name='assunto2'>Organização administrativa</field>
+    </row>
+    <row>
+        <field name='id'>9</field>
+        <field name='symbol1'>010.3</field>
+        <field name='assunto1'>Audiências. Despachos. Reuniões</field>
+        <field name='symbol2'>013.1</field>
+        <field name='assunto2'>Operacionalização (Coordenação e gestão de reuniões)</field>
+    </row>
+    <row>
+        <field name='id'>10</field>
+        <field name='symbol1'>010.3</field>
+        <field name='assunto1'>Audiências. Despachos. Reuniões</field>
+        <field name='symbol2'>013.2</field>
+        <field name='assunto2'>Registro de deliberações (Coordenação e gestão de reuniões)</field>
+    </row>
+    <row>
+        <field name='id'>11</field>
+        <field name='symbol1'>011</field>
+        <field name='assunto1'>Comissões. Conselhos. Grupos de trabalho. Juntas. Comitês</field>
+        <field name='symbol2'>005.1</field>
+        <field name='assunto2'>Criação e atuação (Participação em órgãos colegiados)</field>
+    </row>
+    <row>
+        <field name='id'>12</field>
+        <field name='symbol1'>011</field>
+        <field name='assunto1'>Comissões. Conselhos. Grupos de trabalho. Juntas. Comitês</field>
+        <field name='symbol2'>005.2</field>
+        <field name='assunto2'>Operacionalização de reuniões (Participação em órgãos colegiados)</field>
+    </row>
+    <row>
+        <field name='id'>13</field>
+        <field name='symbol1'>011</field>
+        <field name='assunto1'>Comissões. Conselhos. Grupos de trabalho. Juntas. Comitês</field>
+        <field name='symbol2'>061.011</field>
+        <field name='assunto2'>Composição e atuação (Constituição da comissão permanente de avaliação de documentos)</field>
+    </row>
+    <row>
+        <field name='id'>14</field>
+        <field name='symbol1'>011</field>
+        <field name='assunto1'>Comissões. Conselhos. Grupos de trabalho. Juntas. Comitês</field>
+        <field name='symbol2'>061.012</field>
+        <field name='assunto2'>Operacionalização de reuniões (Constituição da comissão permanente de avaliação de documentos)</field>
+    </row>
+    <row>
+        <field name='id'>15</field>
+        <field name='symbol1'>012</field>
+        <field name='assunto1'>Comunicação social</field>
+        <field name='symbol2'>019.1</field>
+        <field name='assunto2'>Comunicação social</field>
+    </row>
+    <row>
+        <field name='id'>16</field>
+        <field name='symbol1'>012.1</field>
+        <field name='assunto1'>Relações com a imprensa</field>
+        <field name='symbol2'>019.112</field>
+        <field name='assunto2'>Relação com a imprensa</field>
+    </row>
+    <row>
+        <field name='id'>17</field>
+        <field name='symbol1'>012.11</field>
+        <field name='assunto1'>Credenciamento de jornalistas</field>
+        <field name='symbol2'>019.111</field>
+        <field name='assunto2'>Credenciamento de jornalistas</field>
+    </row>
+    <row>
+        <field name='id'>18</field>
+        <field name='symbol1'>012.12</field>
+        <field name='assunto1'>Entrevistas. Noticiários. Reportagens. Editoriais</field>
+        <field name='symbol2'>019.112</field>
+        <field name='assunto2'>Relação com a imprensa</field>
+    </row>
+    <row>
+        <field name='id'>19</field>
+        <field name='symbol1'>012.2</field>
+        <field name='assunto1'>Divulgação interna</field>
+        <field name='symbol2'>019.12</field>
+        <field name='assunto2'>Comunicação interna</field>
+    </row>
+    <row>
+        <field name='id'>20</field>
+        <field name='symbol1'>012.3</field>
+        <field name='assunto1'>Campanhas institucionais. Publicidade</field>
+        <field name='symbol2'>019.113</field>
+        <field name='assunto2'>Elaboração de campanhas publicitárias</field>
+    </row>
+    <row>
+        <field name='id'>21</field>
+        <field name='symbol1'>019</field>
+        <field name='assunto1'>Outros assuntos referentes à organização e funcionamento</field>
+        <field name='symbol2'>019</field>
+        <field name='assunto2'>Outras ações referentes à organização e funcionamento</field>
+    </row>
+    <row>
+        <field name='id'>22</field>
+        <field name='symbol1'>019.01</field>
+        <field name='assunto1'>Informações sobre o órgão</field>
+        <field name='symbol2'>991</field>
+        <field name='assunto2'>Gestão de comunicações eventuais</field>
+    </row>
+    <row>
+        <field name='id'>23</field>
+        <field name='symbol1'>020</field>
+        <field name='assunto1'>Pessoal</field>
+        <field name='symbol2'>020</field>
+        <field name='assunto2'>Gestão de pessoas</field>
+    </row>
+    <row>
+        <field name='id'>24</field>
+        <field name='symbol1'>020.1</field>
+        <field name='assunto1'>Legislação</field>
+        <field name='symbol2'>010.01</field>
+        <field name='assunto2'>Normatização. Regulamentação (Organização e funcionamento)</field>
+    </row>
+    <row>
+        <field name='id'>25</field>
+        <field name='symbol1'>020.1</field>
+        <field name='assunto1'>Legislação</field>
+        <field name='symbol2'>020.01</field>
+        <field name='assunto2'>Normatização. Regulamentação (Gestão de pessoas)</field>
+    </row>
+    <row>
+        <field name='id'>26</field>
+        <field name='symbol1'>020.2</field>
+        <field name='assunto1'>Identificação funcional</field>
+        <field name='symbol2'>020.2</field>
+        <field name='assunto2'>Identificação funcional</field>
+    </row>
+    <row>
+        <field name='id'>27</field>
+        <field name='symbol1'>020.3</field>
+        <field name='assunto1'>Obrigações trabalhistas e estatutárias. Relações com órgãos normatizadores da administração pública. Lei dos 2/3. Rais</field>
+        <field name='symbol2'>023.18</field>
+        <field name='assunto2'>Obrigações trabalhistas e estatutárias, encargos patronais e recolhimentos</field>
+    </row>
+    <row>
+        <field name='id'>28</field>
+        <field name='symbol1'>020.3</field>
+        <field name='assunto1'>Obrigações trabalhistas e estatutárias. Relações com órgãos normatizadores da administração pública. Lei dos 2/3. Rais</field>
+        <field name='symbol2'>023.186</field>
+        <field name='assunto2'>Lei dos dois terços. Relação anual de informações sociais (Rais)</field>
+    </row>
+    <row>
+        <field name='id'>29</field>
+        <field name='symbol1'>020.31</field>
+        <field name='assunto1'>Relações com os conselhos profissionais</field>
+        <field name='symbol2'>020.033</field>
+        <field name='assunto2'>Relação com conselhos profissionais</field>
+    </row>
+    <row>
+        <field name='id'>30</field>
+        <field name='symbol1'>020.4</field>
+        <field name='assunto1'>Sindicatos. Acordos. Dissídios</field>
+        <field name='symbol2'>020.031</field>
+        <field name='assunto2'>Relação com sindicatos</field>
+    </row>
+    <row>
+        <field name='id'>31</field>
+        <field name='symbol1'>020.5</field>
+        <field name='assunto1'>Assentamentos individuais. Cadastro</field>
+        <field name='symbol2'>020.11</field>
+        <field name='assunto2'>Servidores e empregados públicos (Assentamento funcional)</field>
+    </row>
+    <row>
+        <field name='id'>32</field>
+        <field name='symbol1'>020.5</field>
+        <field name='assunto1'>Assentamentos individuais. Cadastro</field>
+        <field name='symbol2'>020.12</field>
+        <field name='assunto2'>Servidores temporários (Assentamento funcional)</field>
+    </row>
+    <row>
+        <field name='id'>33</field>
+        <field name='symbol1'>020.5</field>
+        <field name='assunto1'>Assentamentos individuais. Cadastro</field>
+        <field name='symbol2'>020.13</field>
+        <field name='assunto2'>Residentes e estagiários (Assentamento funcional)</field>
+    </row>
+    <row>
+        <field name='id'>34</field>
+        <field name='symbol1'>020.5</field>
+        <field name='assunto1'>Assentamentos individuais. Cadastro</field>
+        <field name='symbol2'>020.14</field>
+        <field name='assunto2'>Ocupantes de cargo comissionado e de função de confiança (Assentamento funcional)</field>
+    </row>
+    <row>
+        <field name='id'>35</field>
+        <field name='symbol1'>021</field>
+        <field name='assunto1'>Recrutamento e seleção</field>
+        <field name='symbol2'>021</field>
+        <field name='assunto2'>Recrutamento e seleção</field>
+    </row>
+    <row>
+        <field name='id'>36</field>
+        <field name='symbol1'>021.1</field>
+        <field name='assunto1'>Candidatos a cargo e emprego públicos: inscrição e curriculum vitae</field>
+        <field name='symbol2'>021.2</field>
+        <field name='assunto2'>Inscrição (Recrutamento e seleção)</field>
+    </row>
+    <row>
+        <field name='id'>37</field>
+        <field name='symbol1'>021.2</field>
+        <field name='assunto1'>Exames de seleção</field>
+        <field name='symbol2'>021.1</field>
+        <field name='assunto2'>Planejamento do processo seletivo (Recrutamento e seleção)</field>
+    </row>
+    <row>
+        <field name='id'>38</field>
+        <field name='symbol1'>021.2</field>
+        <field name='assunto1'>Exames de seleção</field>
+        <field name='symbol2'>021.2</field>
+        <field name='assunto2'>Inscrição (Recrutamento e seleção)</field>
+    </row>
+    <row>
+        <field name='id'>39</field>
+        <field name='symbol1'>021.2</field>
+        <field name='assunto1'>Exames de seleção</field>
+        <field name='symbol2'>021.3</field>
+        <field name='assunto2'>Controle de aplicação de provas (Recrutamento e seleção)</field>
+    </row>
+    <row>
+        <field name='id'>40</field>
+        <field name='symbol1'>021.2</field>
+        <field name='assunto1'>Exames de seleção</field>
+        <field name='symbol2'>021.4</field>
+        <field name='assunto2'>Correção de provas. Avaliação (Recrutamento e seleção)</field>
+    </row>
+    <row>
+        <field name='id'>41</field>
+        <field name='symbol1'>021.2</field>
+        <field name='assunto1'>Exames de seleção</field>
+        <field name='symbol2'>021.5</field>
+        <field name='assunto2'>Divulgação dos resultados e interposição de recursos (Recrutamento e seleção)</field>
+    </row>
+    <row>
+        <field name='id'>42</field>
+        <field name='symbol1'>022</field>
+        <field name='assunto1'>Aperfeiçoamento e treinamento</field>
+        <field name='symbol2'>024</field>
+        <field name='assunto2'>Capacitação do servidor</field>
+    </row>
+    <row>
+        <field name='id'>43</field>
+        <field name='symbol1'>022.1</field>
+        <field name='assunto1'>Cursos</field>
+        <field name='symbol2'>024.1</field>
+        <field name='assunto2'>Promoção de cursos pelo órgão e entidade</field>
+    </row>
+    <row>
+        <field name='id'>44</field>
+        <field name='symbol1'>022.11</field>
+        <field name='assunto1'>Promovidos pela instituição</field>
+        <field name='symbol2'>024.11</field>
+        <field name='assunto2'>Programação (Promoção de cursos pelo órgão e entidade)</field>
+    </row>
+    <row>
+        <field name='id'>45</field>
+        <field name='symbol1'>022.11</field>
+        <field name='assunto1'>Promovidos pela instituição</field>
+        <field name='symbol2'>024.12</field>
+        <field name='assunto2'>Inscrição e frequência (Promoção de cursos pelo órgão e entidade)</field>
+    </row>
+    <row>
+        <field name='id'>46</field>
+        <field name='symbol1'>022.11</field>
+        <field name='assunto1'>Promovidos pela instituição</field>
+        <field name='symbol2'>024.13</field>
+        <field name='assunto2'>Avaliação e resultados (Promoção de cursos pelo órgão e entidade)</field>
+    </row>
+    <row>
+        <field name='id'>47</field>
+        <field name='symbol1'>022.12</field>
+        <field name='assunto1'>Promovidos por outras instituições</field>
+        <field name='symbol2'>024.2</field>
+        <field name='assunto2'>Participação em cursos promovidos por outros órgãos e entidades</field>
+    </row>
+    <row>
+        <field name='id'>48</field>
+        <field name='symbol1'>022.121</field>
+        <field name='assunto1'>No Brasil</field>
+        <field name='symbol2'>024.2</field>
+        <field name='assunto2'>Participação em cursos promovidos por outros órgãos e entidades</field>
+    </row>
+    <row>
+        <field name='id'>49</field>
+        <field name='symbol1'>022.122</field>
+        <field name='assunto1'>No exterior</field>
+        <field name='symbol2'>024.2</field>
+        <field name='assunto2'>Participação em cursos promovidos por outros órgãos e entidades</field>
+    </row>
+    <row>
+        <field name='id'>50</field>
+        <field name='symbol1'>022.2</field>
+        <field name='assunto1'>Estágios</field>
+        <field name='symbol2'>024.3</field>
+        <field name='assunto2'>Promoção de estágios pelo órgão e entidade</field>
+    </row>
+    <row>
+        <field name='id'>51</field>
+        <field name='symbol1'>022.21</field>
+        <field name='assunto1'>Promovidos pela instituição</field>
+        <field name='symbol2'>024.31</field>
+        <field name='assunto2'>Programação (Promoção de estágios pelo órgão e entidade)</field>
+    </row>
+    <row>
+        <field name='id'>52</field>
+        <field name='symbol1'>022.21</field>
+        <field name='assunto1'>Promovidos pela instituição</field>
+        <field name='symbol2'>024.32</field>
+        <field name='assunto2'>Inscrição e frequência (Promoção de estágios pelo órgão e entidade)</field>
+    </row>
+    <row>
+        <field name='id'>53</field>
+        <field name='symbol1'>022.21</field>
+        <field name='assunto1'>Promovidos pela instituição</field>
+        <field name='symbol2'>024.33</field>
+        <field name='assunto2'>Avaliação e resultados (Promoção de estágios pelo órgão e entidade)</field>
+    </row>
+    <row>
+        <field name='id'>54</field>
+        <field name='symbol1'>022.22</field>
+        <field name='assunto1'>Promovidos por outras instituições</field>
+        <field name='symbol2'>024.4</field>
+        <field name='assunto2'>Participação em estágios promovidos por outros órgãos e entidades</field>
+    </row>
+    <row>
+        <field name='id'>55</field>
+        <field name='symbol1'>022.221</field>
+        <field name='assunto1'>No Brasil</field>
+        <field name='symbol2'>024.4</field>
+        <field name='assunto2'>Participação em estágios promovidos por outros órgãos e entidades</field>
+    </row>
+    <row>
+        <field name='id'>56</field>
+        <field name='symbol1'>022.222</field>
+        <field name='assunto1'>No exterior</field>
+        <field name='symbol2'>024.4</field>
+        <field name='assunto2'>Participação em estágios promovidos por outros órgãos e entidades</field>
+    </row>
+    <row>
+        <field name='id'>57</field>
+        <field name='symbol1'>022.9</field>
+        <field name='assunto1'>Outros assuntos referentes a aperfeiçoamento e treinamento</field>
+        <field name='symbol2'>-</field>
+        <field name='assunto2'>-</field>
+    </row>
+    <row>
+        <field name='id'>58</field>
+        <field name='symbol1'>023</field>
+        <field name='assunto1'>Quadros, tabelas e política de pessoal</field>
+        <field name='symbol2'>020.02</field>
+        <field name='assunto2'>Implementação das políticas de pessoal</field>
+    </row>
+    <row>
+        <field name='id'>59</field>
+        <field name='symbol1'>023.01</field>
+        <field name='assunto1'>Estudos e previsão de pessoal</field>
+        <field name='symbol2'>020.021</field>
+        <field name='assunto2'>Planejamento da força de trabalho. Previsão de pessoal</field>
+    </row>
+    <row>
+        <field name='id'>60</field>
+        <field name='symbol1'>023.02</field>
+        <field name='assunto1'>Criação, classificação, transformação, transposição e remuneração de cargos e funções</field>
+        <field name='symbol2'>020.022</field>
+        <field name='assunto2'>Criação, extinção, classificação, transformação e transposição de cargos e de carreiras</field>
+    </row>
+    <row>
+        <field name='id'>61</field>
+        <field name='symbol1'>023.03</field>
+        <field name='assunto1'>Reestruturações e alterações salariais</field>
+        <field name='symbol2'>023.12</field>
+        <field name='assunto2'>Reestruturação e alteração salarial (Pagamento de vencimentos. Remunerações. Salários. Proventos)</field>
+    </row>
+    <row>
+        <field name='id'>62</field>
+        <field name='symbol1'>023.1</field>
+        <field name='assunto1'>Movimentação de pessoal</field>
+        <field name='symbol2'>022.2</field>
+        <field name='assunto2'>Movimentação de pessoal</field>
+    </row>
+    <row>
+        <field name='id'>63</field>
+        <field name='symbol1'>023.11</field>
+        <field name='assunto1'>Admissão. Aproveitamento. Contratação. Nomeação. Readmissão. Readaptação. Recondução. Reintegração. Reversão</field>
+        <field name='symbol2'>022.1</field>
+        <field name='assunto2'>Provimento de cargo público</field>
+    </row>
+    <row>
+        <field name='id'>64</field>
+        <field name='symbol1'>023.12</field>
+        <field name='assunto1'>Demissão. Dispensa. Exoneração. Rescisão contratual. Falecimento</field>
+        <field name='symbol2'>022.7</field>
+        <field name='assunto2'>Vacância</field>
+    </row>
+    <row>
+        <field name='id'>65</field>
+        <field name='symbol1'>023.13</field>
+        <field name='assunto1'>Lotação. Remoção. Transferência. Permuta</field>
+        <field name='symbol2'>022.21</field>
+        <field name='assunto2'>Lotação, exercício e permuta</field>
+    </row>
+    <row>
+        <field name='id'>66</field>
+        <field name='symbol1'>023.13</field>
+        <field name='assunto1'>Lotação. Remoção. Transferência. Permuta</field>
+        <field name='symbol2'>022.3</field>
+        <field name='assunto2'>Remoção</field>
+    </row>
+    <row>
+        <field name='id'>67</field>
+        <field name='symbol1'>023.14</field>
+        <field name='assunto1'>Designação. Disponibilidade. Redistribuição. Substituição</field>
+        <field name='symbol2'>022.1</field>
+        <field name='assunto2'>Provimento de cargo público</field>
+    </row>
+    <row>
+        <field name='id'>68</field>
+        <field name='symbol1'>023.14</field>
+        <field name='assunto1'>Designação. Disponibilidade. Redistribuição. Substituição</field>
+        <field name='symbol2'>022.4</field>
+        <field name='assunto2'>Redistribuição</field>
+    </row>
+    <row>
+        <field name='id'>69</field>
+        <field name='symbol1'>023.14</field>
+        <field name='assunto1'>Designação. Disponibilidade. Redistribuição. Substituição</field>
+        <field name='symbol2'>022.5</field>
+        <field name='assunto2'>Substituição</field>
+    </row>
+    <row>
+        <field name='id'>70</field>
+        <field name='symbol1'>023.15</field>
+        <field name='assunto1'>Requisição. Cessão</field>
+        <field name='symbol2'>022.22</field>
+        <field name='assunto2'>Cessão. Requisição</field>
+    </row>
+    <row>
+        <field name='id'>71</field>
+        <field name='symbol1'>024</field>
+        <field name='assunto1'>Direitos, obrigações e vantagens</field>
+        <field name='symbol2'>023</field>
+        <field name='assunto2'>Concessão de direitos e vantagens</field>
+    </row>
+    <row>
+        <field name='id'>72</field>
+        <field name='symbol1'>024.1</field>
+        <field name='assunto1'>Folhas de pagamento. Fichas financeiras</field>
+        <field name='symbol2'>023.11</field>
+        <field name='assunto2'>Folhas de pagamento</field>
+    </row>
+    <row>
+        <field name='id'>73</field>
+        <field name='symbol1'>024.11</field>
+        <field name='assunto1'>Salários, vencimentos, proventos e remunerações</field>
+        <field name='symbol2'>023.1</field>
+        <field name='assunto2'>Pagamento de vencimentos. Remunerações. Salários. Proventos</field>
+    </row>
+    <row>
+        <field name='id'>74</field>
+        <field name='symbol1'>024.111</field>
+        <field name='assunto1'>Salário-família</field>
+        <field name='symbol2'>O26.1</field>
+        <field name='assunto2'>Salário família (Concessão de benefícios de seguridade e previdência social)</field>
+    </row>
+    <row>
+        <field name='id'>75</field>
+        <field name='symbol1'>024.112</field>
+        <field name='assunto1'>Abono ou provento provisório. Abono de permanência em serviço</field>
+        <field name='symbol2'>023.13</field>
+        <field name='assunto2'>Abono provisório</field>
+    </row>
+    <row>
+        <field name='id'>76</field>
+        <field name='symbol1'>024.112</field>
+        <field name='assunto1'>Abono ou provento provisório. Abono de permanência em serviço</field>
+        <field name='symbol2'>023.14</field>
+        <field name='assunto2'>Abono de permanência em serviço</field>
+    </row>
+    <row>
+        <field name='id'>77</field>
+        <field name='symbol1'>024.119</field>
+        <field name='assunto1'>Outros salários, vencimentos, proventos e remunerações</field>
+        <field name='symbol2'>023.191</field>
+        <field name='assunto2'>Retificação de pagamento (Outras ações referentes ao pagamento de vencime ntos. Remunerações. Salários. Proventos)</field>
+    </row>
+    <row>
+        <field name='id'>78</field>
+        <field name='symbol1'>024.12</field>
+        <field name='assunto1'>Gratificações</field>
+        <field name='symbol2'>023.15</field>
+        <field name='assunto2'>Gratificações</field>
+    </row>
+    <row>
+        <field name='id'>79</field>
+        <field name='symbol1'>024.121</field>
+        <field name='assunto1'>De função</field>
+        <field name='symbol2'>023.151</field>
+        <field name='assunto2'>Função (Gratificações)</field>
+    </row>
+    <row>
+        <field name='id'>80</field>
+        <field name='symbol1'>024.122</field>
+        <field name='assunto1'>Jetons</field>
+        <field name='symbol2'>023.152</field>
+        <field name='assunto2'>Jetons (Gratificações)</field>
+    </row>
+    <row>
+        <field name='id'>81</field>
+        <field name='symbol1'>024.123</field>
+        <field name='assunto1'>Cargos em comissão</field>
+        <field name='symbol2'>023.153</field>
+        <field name='assunto2'>Cargos em comissão (Gratificações)</field>
+    </row>
+    <row>
+        <field name='id'>82</field>
+        <field name='symbol1'>024.124</field>
+        <field name='assunto1'>Natalina</field>
+        <field name='symbol2'>023.154</field>
+        <field name='assunto2'>Natalina. Décimo terceiro salário (Gratificações)</field>
+    </row>
+    <row>
+        <field name='id'>83</field>
+        <field name='symbol1'>024.12</field>
+        <field name='assunto1'>Outras gratificações</field>
+        <field name='symbol2'>023.155</field>
+        <field name='assunto2'>Desempenho (Gratificações)</field>
+    </row>
+    <row>
+        <field name='id'>84</field>
+        <field name='symbol1'>024.12</field>
+        <field name='assunto1'>Outras gratificações</field>
+        <field name='symbol2'>023.156</field>
+        <field name='assunto2'>Encargo de curso e concurso (Gratificações)</field>
+    </row>
+    <row>
+        <field name='id'>85</field>
+        <field name='symbol1'>024.12</field>
+        <field name='assunto1'>Outras gratificações</field>
+        <field name='symbol2'>023.157</field>
+        <field name='assunto2'>Titulação (Gratificações)</field>
+    </row>
+    <row>
+        <field name='id'>86</field>
+        <field name='symbol1'>024.13</field>
+        <field name='assunto1'>Adicionais</field>
+        <field name='symbol2'>023.16</field>
+        <field name='assunto2'>Adicionais</field>
+    </row>
+    <row>
+        <field name='id'>87</field>
+        <field name='symbol1'>024.131</field>
+        <field name='assunto1'>Tempo de serviço</field>
+        <field name='symbol2'>023.161</field>
+        <field name='assunto2'>Tempo de serviço (Adicionais)</field>
+    </row>
+    <row>
+        <field name='id'>88</field>
+        <field name='symbol1'>024.132</field>
+        <field name='assunto1'>Noturno</field>
+        <field name='symbol2'>023.162</field>
+        <field name='assunto2'>Noturno (Adicionais)</field>
+    </row>
+    <row>
+        <field name='id'>89</field>
+        <field name='symbol1'>024.133</field>
+        <field name='assunto1'>Periculosidade</field>
+        <field name='symbol2'>023.163</field>
+        <field name='assunto2'>Periculosidade (Adicionais)</field>
+    </row>
+    <row>
+        <field name='id'>90</field>
+        <field name='symbol1'>024.134</field>
+        <field name='assunto1'>Insalubridade</field>
+        <field name='symbol2'>023.164</field>
+        <field name='assunto2'>Insalubridade (Adicionais)</field>
+    </row>
+    <row>
+        <field name='id'>91</field>
+        <field name='symbol1'>024.135</field>
+        <field name='assunto1'>Atividades penosas</field>
+        <field name='symbol2'>023.165</field>
+        <field name='assunto2'>Atividade penosa (Adicionais)</field>
+    </row>
+    <row>
+        <field name='id'>92</field>
+        <field name='symbol1'>024.136</field>
+        <field name='assunto1'>Serviço extraordinário</field>
+        <field name='symbol2'>023.166</field>
+        <field name='assunto2'>Serviço extraordinário. Horas extras (Adicionais)</field>
+    </row>
+    <row>
+        <field name='id'>93</field>
+        <field name='symbol1'>024.137</field>
+        <field name='assunto1'>Férias: adicional de 1/3 e abono pecuniário</field>
+        <field name='symbol2'>023.167</field>
+        <field name='assunto2'>Um terço de férias. Abono pecuniário (Adicionais)</field>
+    </row>
+    <row>
+        <field name='id'>94</field>
+        <field name='symbol1'>024.139</field>
+        <field name='assunto1'>Outros adicionais</field>
+        <field name='symbol2'>-</field>
+        <field name='assunto2'>-</field>
+    </row>
+    <row>
+        <field name='id'>95</field>
+        <field name='symbol1'>024.14</field>
+        <field name='assunto1'>Descontos</field>
+        <field name='symbol2'>023.17</field>
+        <field name='assunto2'>Descontos</field>
+    </row>
+    <row>
+        <field name='id'>96</field>
+        <field name='symbol1'>024.141</field>
+        <field name='assunto1'>Contribuição sindical do servidor</field>
+        <field name='symbol2'>023.171</field>
+        <field name='assunto2'>Contribuição sindical, assistencial e confederativa (Descontos)</field>
+    </row>
+    <row>
+        <field name='id'>97</field>
+        <field name='symbol1'>024.142</field>
+        <field name='assunto1'>Contribuição para o plano de seguridade social</field>
+        <field name='symbol2'>023.172</field>
+        <field name='assunto2'>Contribuição para o plano de seguridade social (Descontos)</field>
+    </row>
+    <row>
+        <field name='id'>98</field>
+        <field name='symbol1'>024.143</field>
+        <field name='assunto1'>Imposto de renda retido na fonte (IRRF)</field>
+        <field name='symbol2'>023.173</field>
+        <field name='assunto2'>Imposto de renda retido na fonte (IRRF) (Descontos)</field>
+    </row>
+    <row>
+        <field name='id'>99</field>
+        <field name='symbol1'>024.144</field>
+        <field name='assunto1'>Pensões alimentícias</field>
+        <field name='symbol2'>023.174</field>
+        <field name='assunto2'>Pensão alimentícia (Descontos)</field>
+    </row>
+    <row>
+        <field name='id'>100</field>
+        <field name='symbol1'>024.145</field>
+        <field name='assunto1'>Consignações</field>
+        <field name='symbol2'>023.175</field>
+        <field name='assunto2'>Consignações facultativas (Descontos)</field>
+    </row>
+    <row>
+        <field name='id'>101</field>
+        <field name='symbol1'>024.149</field>
+        <field name='assunto1'>Outros descontos</field>
+        <field name='symbol2'>-</field>
+        <field name='assunto2'>-</field>
+    </row>
+    <row>
+        <field name='id'>102</field>
+        <field name='symbol1'>024.15</field>
+        <field name='assunto1'>Encargos patronais. Recolhimentos</field>
+        <field name='symbol2'>023.18</field>
+        <field name='assunto2'>Obrigações trabalhistas e estatutárias, encargos patronais e recolhimentos</field>
+    </row>
+    <row>
+        <field name='id'>103</field>
+        <field name='symbol1'>024.151</field>
+        <field name='assunto1'>Programa de formação do patrimônio do servidor público (Pasep). Programa de integração social (PIS)</field>
+        <field name='symbol2'>023.181</field>
+        <field name='assunto2'>Programa de formação do patrimônio do servidor público (Pasep). Programa de integração social (PIS)</field>
+    </row>
+    <row>
+        <field name='id'>104</field>
+        <field name='symbol1'>024.152</field>
+        <field name='assunto1'>Fundo de garantia por tempo de serviço (FGTS)</field>
+        <field name='symbol2'>023.182</field>
+        <field name='assunto2'>Fundo de garantia do tempo de serviço (FGTS)</field>
+    </row>
+    <row>
+        <field name='id'>105</field>
+        <field name='symbol1'>024.153</field>
+        <field name='assunto1'>Contribuição sindical do empregador</field>
+        <field name='symbol2'>023.183</field>
+        <field name='assunto2'>Contribuição sindical do empregador (Obrigações trabalhistas e estatutárias, encargos patronais e recolhimentos)</field>
+    </row>
+    <row>
+        <field name='id'>106</field>
+        <field name='symbol1'>024.154</field>
+        <field name='assunto1'>Contribuição para o plano de seguridade social</field>
+        <field name='symbol2'>023.184</field>
+        <field name='assunto2'>Contribuição para o plano de seguridade social (Obrigações trabalhistas e estatutárias, encargos patronais e recolhimentos)</field>
+    </row>
+    <row>
+        <field name='id'>107</field>
+        <field name='symbol1'>024.155</field>
+        <field name='assunto1'>Salário maternidade</field>
+        <field name='symbol2'>026.2</field>
+        <field name='assunto2'>Salário maternidade (Concessão de benefícios de seguridade e previdência social)</field>
+    </row>
+    <row>
+        <field name='id'>108</field>
+        <field name='symbol1'>024.156</field>
+        <field name='assunto1'>Imposto de renda</field>
+        <field name='symbol2'>023.185</field>
+        <field name='assunto2'>Imposto de renda (Obrigações trabalhistas e estatutárias, encargos patronais e recolhimentos)</field>
+    </row>
+    <row>
+        <field name='id'>109</field>
+        <field name='symbol1'>024.2</field>
+        <field name='assunto1'>Férias</field>
+        <field name='symbol2'>023.2</field>
+        <field name='assunto2'>Férias (Concessão de direitos e vantagens)</field>
+    </row>
+    <row>
+        <field name='id'>110</field>
+        <field name='symbol1'>024.3</field>
+        <field name='assunto1'>Licenças</field>
+        <field name='symbol2'>023.3</field>
+        <field name='assunto2'>Licenças (Concessão de direitos e vantagens)</field>
+    </row>
+    <row>
+        <field name='id'>111</field>
+        <field name='symbol1'>024.3</field>
+        <field name='assunto1'>Licenças</field>
+        <field name='symbol2'>026.4</field>
+        <field name='assunto2'>Licenças (Concessão de benefícios de seguridade e previdência social)</field>
+    </row>
+    <row>
+        <field name='id'>112</field>
+        <field name='symbol1'>024.4</field>
+        <field name='assunto1'>Afastamentos</field>
+        <field name='symbol2'>023.4</field>
+        <field name='assunto2'>Afastamentos</field>
+    </row>
+    <row>
+        <field name='id'>113</field>
+        <field name='symbol1'>024.5</field>
+        <field name='assunto1'>Reembolso de despesas</field>
+        <field name='symbol2'>023.7</field>
+        <field name='assunto2'>Reembolso de despesas. Indenização</field>
+    </row>
+    <row>
+        <field name='id'>114</field>
+        <field name='symbol1'>024.51</field>
+        <field name='assunto1'>Mudança de domicílio de servidores</field>
+        <field name='symbol2'>023.71</field>
+        <field name='assunto2'>Mudança de domicílio (Reembolso de despesas. Indenização)</field>
+    </row>
+    <row>
+        <field name='id'>115</field>
+        <field name='symbol1'>024.52</field>
+        <field name='assunto1'>Locomoção</field>
+        <field name='symbol2'>023.72</field>
+        <field name='assunto2'>Locomoção (Reembolso de despesas. Indenização)</field>
+    </row>
+    <row>
+        <field name='id'>116</field>
+        <field name='symbol1'>024.59</field>
+        <field name='assunto1'>Outros reembolsos</field>
+        <field name='symbol2'>023.73</field>
+        <field name='assunto2'>Ressarcimento de plano de saúde (Reembolso de despesas. Indenização)</field>
+    </row>
+    <row>
+        <field name='id'>117</field>
+        <field name='symbol1'>024.9</field>
+        <field name='assunto1'>Outros direitos, obrigações e vantagens</field>
+        <field name='symbol2'>023.91</field>
+        <field name='assunto2'>Contratação de seguro (Outras ações referentes à concessão de direitos e vantagens)</field>
+    </row>
+    <row>
+        <field name='id'>118</field>
+        <field name='symbol1'>024.9</field>
+        <field name='assunto1'>Outros direitos, obrigações e vantagens</field>
+        <field name='symbol2'>023.92</field>
+        <field name='assunto2'>Ocupação de imóvel funcional (Outras ações referentes à concessão de direitos e vantagens)</field>
+    </row>
+    <row>
+        <field name='id'>119</field>
+        <field name='symbol1'>024.9</field>
+        <field name='assunto1'>Outros direitos, obrigações e vantagens</field>
+        <field name='symbol2'>023.93</field>
+        <field name='assunto2'>Fornecimento de transporte (Outras ações referentes à concessão de direitos e vantagens)</field>
+    </row>
+    <row>
+        <field name='id'>120</field>
+        <field name='symbol1'>024.91</field>
+        <field name='assunto1'>Concessões</field>
+        <field name='symbol2'>023.5</field>
+        <field name='assunto2'>Concessões (Concessão de direitos e vantagens)</field>
+    </row>
+    <row>
+        <field name='id'>121</field>
+        <field name='symbol1'>024.92</field>
+        <field name='assunto1'>Auxílios</field>
+        <field name='symbol2'>023.6</field>
+        <field name='assunto2'>Auxílios (Concessão de direitos e vantagens)</field>
+    </row>
+    <row>
+        <field name='id'>122</field>
+        <field name='symbol1'>025</field>
+        <field name='assunto1'>Apuração de responsabilidade e ação disciplinar</field>
+        <field name='symbol2'>027</field>
+        <field name='assunto2'>Apuração de responsabilidade disciplinar</field>
+    </row>
+    <row>
+        <field name='id'>123</field>
+        <field name='symbol1'>025.1</field>
+        <field name='assunto1'>Denuncias. Sindicâncias. Inquéritos</field>
+        <field name='symbol2'>027.1</field>
+        <field name='assunto2'>Averiguação de denúncias</field>
+    </row>
+    <row>
+        <field name='id'>124</field>
+        <field name='symbol1'>025.11</field>
+        <field name='assunto1'>Processos disciplinares</field>
+        <field name='symbol2'>027.1</field>
+        <field name='assunto2'>Averiguação de denúncias</field>
+    </row>
+    <row>
+        <field name='id'>125</field>
+        <field name='symbol1'>025.12</field>
+        <field name='assunto1'>Penalidades disciplinares</field>
+        <field name='symbol2'>027.2</field>
+        <field name='assunto2'>Aplicação de penalidades disciplinares</field>
+    </row>
+    <row>
+        <field name='id'>126</field>
+        <field name='symbol1'>026</field>
+        <field name='assunto1'>Previdência, assistência e seguridade social</field>
+        <field name='symbol2'>026</field>
+        <field name='assunto2'>Concessão de benefícios de seguridade e previdência social</field>
+    </row>
+    <row>
+        <field name='id'>127</field>
+        <field name='symbol1'>026.01</field>
+        <field name='assunto1'>Previdência privada</field>
+        <field name='symbol2'>026.01</field>
+        <field name='assunto2'>Adesão à previdência complementar (Concessão de benefícios de seguridade e previdência social)</field>
+    </row>
+    <row>
+        <field name='id'>128</field>
+        <field name='symbol1'>026.1</field>
+        <field name='assunto1'>Benefícios</field>
+        <field name='symbol2'>026</field>
+        <field name='assunto2'>Concessão de benefícios de seguridade e previdência social</field>
+    </row>
+    <row>
+        <field name='id'>129</field>
+        <field name='symbol1'>026.11</field>
+        <field name='assunto1'>Seguros</field>
+        <field name='symbol2'>023.91</field>
+        <field name='assunto2'>Contratação de seguro (Outras ações referentes à concessão de direitos e vantagens)</field>
+    </row>
+    <row>
+        <field name='id'>130</field>
+        <field name='symbol1'>026.12</field>
+        <field name='assunto1'>Auxílios</field>
+        <field name='symbol2'>026.3</field>
+        <field name='assunto2'>Auxílios (Concessão de benefícios de seguridade e previdência social)</field>
+    </row>
+    <row>
+        <field name='id'>131</field>
+        <field name='symbol1'>026.12</field>
+        <field name='assunto1'>Auxílio reclusão</field>
+        <field name='symbol2'>026.91</field>
+        <field name='assunto2'>Auxílio reclusão (Outras ações referentes à concessão de benefícios de seguridade e previdência social)</field>
+    </row>
+    <row>
+        <field name='id'>132</field>
+        <field name='symbol1'>026.13</field>
+        <field name='assunto1'>Aposentadoria</field>
+        <field name='symbol2'>026.51</field>
+        <field name='assunto2'>Invalidez permanente (Aposentadoria)</field>
+    </row>
+    <row>
+        <field name='id'>133</field>
+        <field name='symbol1'>026.13</field>
+        <field name='assunto1'>Aposentadoria</field>
+        <field name='symbol2'>026.52</field>
+        <field name='assunto2'>Compulsória (Aposentadoria)</field>
+    </row>
+    <row>
+        <field name='id'>134</field>
+        <field name='symbol1'>026.13</field>
+        <field name='assunto1'>Aposentadoria</field>
+        <field name='symbol2'>026.53</field>
+        <field name='assunto2'>Voluntária (Aposentadoria)</field>
+    </row>
+    <row>
+        <field name='id'>135</field>
+        <field name='symbol1'>026.13</field>
+        <field name='assunto1'>Aposentadoria</field>
+        <field name='symbol2'>026.54</field>
+        <field name='assunto2'>Especial (Aposentadoria)</field>
+    </row>
+    <row>
+        <field name='id'>136</field>
+        <field name='symbol1'>026.131</field>
+        <field name='assunto1'>Contagem e averbação de tempo de serviço</field>
+        <field name='symbol2'>026.02</field>
+        <field name='assunto2'>Contagem e averbação de tempo de serviço (Concessão de benefícios de seguridade e previdência social)</field>
+    </row>
+    <row>
+        <field name='id'>137</field>
+        <field name='symbol1'>026.132</field>
+        <field name='assunto1'>Pensões: provisória, temporária e vitalícia</field>
+        <field name='symbol2'>026.61</field>
+        <field name='assunto2'>Pensão provisória. Pensão temporária</field>
+    </row>
+    <row>
+        <field name='id'>138</field>
+        <field name='symbol1'>026.132</field>
+        <field name='assunto1'>Pensões: provisória, temporária e vitalícia</field>
+        <field name='symbol2'>026.62</field>
+        <field name='assunto2'>Pensão vitalícia</field>
+    </row>
+    <row>
+        <field name='id'>139</field>
+        <field name='symbol1'>026.19</field>
+        <field name='assunto1'>Outros benefícios</field>
+        <field name='symbol2'>026.9</field>
+        <field name='assunto2'>Outras ações referentes à concessão de benefícios de seguridade e previdência social</field>
+    </row>
+    <row>
+        <field name='id'>140</field>
+        <field name='symbol1'>026.191</field>
+        <field name='assunto1'>Adiantamentos e empréstimos a servidores</field>
+        <field name='symbol2'>023.175</field>
+        <field name='assunto2'>Consignações facultativas</field>
+    </row>
+    <row>
+        <field name='id'>141</field>
+        <field name='symbol1'>026.192</field>
+        <field name='assunto1'>Assistência a saúde</field>
+        <field name='symbol2'>025.11</field>
+        <field name='assunto2'>Celebração de convênios de planos de saúde (Assistência à saúde)</field>
+    </row>
+    <row>
+        <field name='id'>142</field>
+        <field name='symbol1'>026.192</field>
+        <field name='assunto1'>Assistência a saúde</field>
+        <field name='symbol2'>025.14</field>
+        <field name='assunto2'>Prontuário médico e odontológico (Assistência à saúde)</field>
+    </row>
+    <row>
+        <field name='id'>143</field>
+        <field name='symbol1'>026.193</field>
+        <field name='assunto1'>Aquisição de imóveis</field>
+        <field name='symbol2'>023.175</field>
+        <field name='assunto2'>Consignações facultativas</field>
+    </row>
+    <row>
+        <field name='id'>144</field>
+        <field name='symbol1'>026.194</field>
+        <field name='assunto1'>Ocupação de próprios da união</field>
+        <field name='symbol2'>023.92</field>
+        <field name='assunto2'>Ocupação de imóvel funcional (Outras ações referentes à concessão de direitos e vantagens)</field>
+    </row>
+    <row>
+        <field name='id'>145</field>
+        <field name='symbol1'>026.195</field>
+        <field name='assunto1'>Transportes para servidores</field>
+        <field name='symbol2'>023.93</field>
+        <field name='assunto2'>Fornecimento de transporte (Outras ações referentes à concessão de direitos e vantagens)</field>
+    </row>
+    <row>
+        <field name='id'>146</field>
+        <field name='symbol1'>026.2</field>
+        <field name='assunto1'>Higiene e segurança do trabalho</field>
+        <field name='symbol2'>025.31</field>
+        <field name='assunto2'>Constituição da comissão interna de prevenção de acidentes (Cipa) (Segurança do trabalho. Prevenção de acidentes de trabalho)</field>
+    </row>
+    <row>
+        <field name='id'>147</field>
+        <field name='symbol1'>026.2</field>
+        <field name='assunto1'>Higiene e segurança do trabalho</field>
+        <field name='symbol2'>025.32</field>
+        <field name='assunto2'>Registro de ocorrências de acidentes de trabalho (Segurança do trabalho. Prevenção de acidentes de trabalho)</field>
+    </row>
+    <row>
+        <field name='id'>148</field>
+        <field name='symbol1'>026.21</field>
+        <field name='assunto1'>Prevenção de acidentes de trabalho. Comissão interna de prevenção de acidentes (Cipa)</field>
+        <field name='symbol2'>025.311</field>
+        <field name='assunto2'>Composição e atuação (Constituição da comissão interna de prevenção de acidentes)</field>
+    </row>
+    <row>
+        <field name='id'>149</field>
+        <field name='symbol1'>026.21</field>
+        <field name='assunto1'>Prevenção de acidentes de trabalho. Comissão interna de prevenção de acidentes (Cipa)</field>
+        <field name='symbol2'>025.312</field>
+        <field name='assunto2'>Operacionalização de reuniões (Constituição da comissão interna de prevenção de acidentes)</field>
+    </row>
+    <row>
+        <field name='id'>150</field>
+        <field name='symbol1'>026.21</field>
+        <field name='assunto1'>Prevenção de acidentes de trabalho. Comissão interna de prevenção de acidentes (Cipa)</field>
+        <field name='symbol2'>025.32</field>
+        <field name='assunto2'>Registro de ocorrências de acidentes de trabalho (Segurança do trabalho. Prevenção de acidentes de trabalho)</field>
+    </row>
+    <row>
+        <field name='id'>151</field>
+        <field name='symbol1'>026.22</field>
+        <field name='assunto1'>Refeitórios, cantinas e copas</field>
+        <field name='symbol2'>025.22</field>
+        <field name='assunto2'>Oferta de serviços de refeitório, cantinas e copas (Preservação da saúde e higiene)</field>
+    </row>
+    <row>
+        <field name='id'>152</field>
+        <field name='symbol1'>026.23</field>
+        <field name='assunto1'>Inspeções periódicas de saúde</field>
+        <field name='symbol2'>025.14</field>
+        <field name='assunto2'>Prontuário médico e odontológico (Assistência à saúde)</field>
+    </row>
+    <row>
+        <field name='id'>153</field>
+        <field name='symbol1'>029</field>
+        <field name='assunto1'>Outros assuntos referentes a pessoal</field>
+        <field name='symbol2'>029</field>
+        <field name='assunto2'>Outras ações referentes à gestão de pessoas</field>
+    </row>
+    <row>
+        <field name='id'>154</field>
+        <field name='symbol1'>029.1</field>
+        <field name='assunto1'>Horário de expediente</field>
+        <field name='symbol2'>029.12</field>
+        <field name='assunto2'>Definição do horário de expediente (Controle de assiduidade e pontualidade )</field>
+    </row>
+    <row>
+        <field name='id'>155</field>
+        <field name='symbol1'>029.11</field>
+        <field name='assunto1'>Controle de frequência</field>
+        <field name='symbol2'>029.11</field>
+        <field name='assunto2'>Controle de frequência (Controle de assiduidade e pontualidade)</field>
+    </row>
+    <row>
+        <field name='id'>156</field>
+        <field name='symbol1'>029.2</field>
+        <field name='assunto1'>Missões fora da sede. Viagens a serviço</field>
+        <field name='symbol2'>028</field>
+        <field name='assunto2'>Cumprimento de missões e viagens a serviço</field>
+    </row>
+    <row>
+        <field name='id'>157</field>
+        <field name='symbol1'>029.21</field>
+        <field name='assunto1'>No país</field>
+        <field name='symbol2'>028.11</field>
+        <field name='assunto2'>Com ônus (Cumprimento de missões e viagens a serviço)</field>
+    </row>
+    <row>
+        <field name='id'>158</field>
+        <field name='symbol1'>029.21</field>
+        <field name='assunto1'>No país</field>
+        <field name='symbol2'>028.12</field>
+        <field name='assunto2'>Com ônus limitado (Cumprimento de missões e viagens a serviço)</field>
+    </row>
+    <row>
+        <field name='id'>159</field>
+        <field name='symbol1'>029.22</field>
+        <field name='assunto1'>No exterior</field>
+        <field name='symbol2'>028.2</field>
+        <field name='assunto2'>No exterior (Cumprimento de missões e viagens a serviço)</field>
+    </row>
+    <row>
+        <field name='id'>160</field>
+        <field name='symbol1'>029.221</field>
+        <field name='assunto1'>Sem ônus para a instituição</field>
+        <field name='symbol2'>028.23</field>
+        <field name='assunto2'>Sem ônus (Cumprimento de missões e viagens a serviço)</field>
+    </row>
+    <row>
+        <field name='id'>161</field>
+        <field name='symbol1'>029.222</field>
+        <field name='assunto1'>Com ônus para a instituição</field>
+        <field name='symbol2'>028.21</field>
+        <field name='assunto2'>Com ônus (Cumprimento de missões e viagens a serviço)</field>
+    </row>
+    <row>
+        <field name='id'>162</field>
+        <field name='symbol1'>029.222</field>
+        <field name='assunto1'>Com ônus para a instituição</field>
+        <field name='symbol2'>028.22</field>
+        <field name='assunto2'>Com ônus limitado (Cumprimento de missões e viagens a serviço)</field>
+    </row>
+    <row>
+        <field name='id'>163</field>
+        <field name='symbol1'>029.3</field>
+        <field name='assunto1'>Incentivos funcionais</field>
+        <field name='symbol2'>029.3</field>
+        <field name='assunto2'>Incentivos funcionais</field>
+    </row>
+    <row>
+        <field name='id'>164</field>
+        <field name='symbol1'>029.31</field>
+        <field name='assunto1'>Prêmios</field>
+        <field name='symbol2'>029.3</field>
+        <field name='assunto2'>Incentivos funcionais</field>
+    </row>
+    <row>
+        <field name='id'>165</field>
+        <field name='symbol1'>029.4</field>
+        <field name='assunto1'>Delegações de competência. Procuração</field>
+        <field name='symbol2'>029.4</field>
+        <field name='assunto2'>Delegação de competência e procuração</field>
+    </row>
+    <row>
+        <field name='id'>166</field>
+        <field name='symbol1'>029.5</field>
+        <field name='assunto1'>Serviços profissionais transitórios: autônomos e colaboradores</field>
+        <field name='symbol2'>029.5</field>
+        <field name='assunto2'>Contratação de serviços profissionais transitórios</field>
+    </row>
+    <row>
+        <field name='id'>167</field>
+        <field name='symbol1'>029.6</field>
+        <field name='assunto1'>Ações trabalhistas. Reclamações trabalhistas</field>
+        <field name='symbol2'>004.21</field>
+        <field name='assunto2'>Representação judicial (Atuação em contencioso)</field>
+    </row>
+    <row>
+        <field name='id'>168</field>
+        <field name='symbol1'>029.6</field>
+        <field name='assunto1'>Ações trabalhistas. Reclamações trabalhistas</field>
+        <field name='symbol2'>004.22</field>
+        <field name='assunto2'>Representação extrajudicial (Atuação em contencioso)</field>
+    </row>
+    <row>
+        <field name='id'>169</field>
+        <field name='symbol1'>029.7</field>
+        <field name='assunto1'>Movimentos reivindicatórios: greves e paralisações</field>
+        <field name='symbol2'>020.032</field>
+        <field name='assunto2'>Movimentos reivindicatórios. Greves. Paralisações</field>
+    </row>
+    <row>
+        <field name='id'>170</field>
+        <field name='symbol1'>030</field>
+        <field name='assunto1'>Material</field>
+        <field name='symbol2'>030</field>
+        <field name='assunto2'>Gestão de materiais</field>
+    </row>
+    <row>
+        <field name='id'>171</field>
+        <field name='symbol1'>030</field>
+        <field name='assunto1'>Material</field>
+        <field name='symbol2'>030.01</field>
+        <field name='assunto2'>Normatização. Regulamentação</field>
+    </row>
+    <row>
+        <field name='id'>172</field>
+        <field name='symbol1'>030.1</field>
+        <field name='assunto1'>Cadastro de fornecedores</field>
+        <field name='symbol2'>030.02</field>
+        <field name='assunto2'>Cadastramento de fornecedores e de prestadores de serviços</field>
+    </row>
+    <row>
+        <field name='id'>173</field>
+        <field name='symbol1'>031</field>
+        <field name='assunto1'>Especificação. Padronização. Codificação. Previsão. Catálogo. Identificação. Classificação</field>
+        <field name='symbol2'>030.03</field>
+        <field name='assunto2'>Especificação, padronização, codificação, previsão, identificação e classificação</field>
+    </row>
+    <row>
+        <field name='id'>174</field>
+        <field name='symbol1'>032</field>
+        <field name='assunto1'>Requisição e controle de serviços reprográficos</field>
+        <field name='symbol2'>069.2</field>
+        <field name='assunto2'>Fornecimento de cópias de documentos</field>
+    </row>
+    <row>
+        <field name='id'>175</field>
+        <field name='symbol1'>033</field>
+        <field name='assunto1'>Aquisição</field>
+        <field name='symbol2'>031</field>
+        <field name='assunto2'>Aquisição e incorporação</field>
+    </row>
+    <row>
+        <field name='id'>176</field>
+        <field name='symbol1'>033.1</field>
+        <field name='assunto1'>Material permanente</field>
+        <field name='symbol2'>031.11</field>
+        <field name='assunto2'>Material permanente (Compra / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>177</field>
+        <field name='symbol1'>033.11</field>
+        <field name='assunto1'>Compra</field>
+        <field name='symbol2'>031.1</field>
+        <field name='assunto2'>Compra (Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>178</field>
+        <field name='symbol1'>033.12</field>
+        <field name='assunto1'>Aluguel. Comodato. Leasing</field>
+        <field name='symbol2'>031.41</field>
+        <field name='assunto2'>Material permanente (Cessão, comodato e empréstimo / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>179</field>
+        <field name='symbol1'>033.12</field>
+        <field name='assunto1'>Aluguel. Comodato. Leasing</field>
+        <field name='symbol2'>031.5</field>
+        <field name='assunto2'>Locação. Arrendamento mercantil (leasing) (Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>180</field>
+        <field name='symbol1'>033.13</field>
+        <field name='assunto1'>Empréstimo. Doação. Cessão. Permuta</field>
+        <field name='symbol2'>031.21</field>
+        <field name='assunto2'>Material permanente (Doação e permuta / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>181</field>
+        <field name='symbol1'>033.13</field>
+        <field name='assunto1'>Empréstimo. Doação. Cessão. Permuta</field>
+        <field name='symbol2'>031.41</field>
+        <field name='assunto2'>Material permanente (Cessão, comodato e empréstimo / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>182</field>
+        <field name='symbol1'>033.2</field>
+        <field name='assunto1'>Material de consumo</field>
+        <field name='symbol2'>031.12</field>
+        <field name='assunto2'>Material de consumo (Compra / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>183</field>
+        <field name='symbol1'>033.21</field>
+        <field name='assunto1'>Compra</field>
+        <field name='symbol2'>031.1</field>
+        <field name='assunto2'>Compra (Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>184</field>
+        <field name='symbol1'>033.22</field>
+        <field name='assunto1'>Cessão. Doação. Permuta</field>
+        <field name='symbol2'>031.22</field>
+        <field name='assunto2'>Material de consumo (Doação e permuta / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>185</field>
+        <field name='symbol1'>033.22</field>
+        <field name='assunto1'>Cessão. Doação. Permuta</field>
+        <field name='symbol2'>031.42</field>
+        <field name='assunto2'>Material de consumo (Cessão, comodato e empréstimo / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>186</field>
+        <field name='symbol1'>033.23</field>
+        <field name='assunto1'>Confecção de impressos</field>
+        <field name='symbol2'>034</field>
+        <field name='assunto2'>Contratação de prestação de serviços</field>
+    </row>
+    <row>
+        <field name='id'>187</field>
+        <field name='symbol1'>034</field>
+        <field name='assunto1'>Movimentação de material</field>
+        <field name='symbol2'>032</field>
+        <field name='assunto2'>Movimentação de material</field>
+    </row>
+    <row>
+        <field name='id'>188</field>
+        <field name='symbol1'>034.01</field>
+        <field name='assunto1'>Termos de responsabilidade</field>
+        <field name='symbol2'>032.01</field>
+        <field name='assunto2'>Termo de responsabilidade. Cautela (Movimentação de material)</field>
+    </row>
+    <row>
+        <field name='id'>189</field>
+        <field name='symbol1'>034.1</field>
+        <field name='assunto1'>Controle de estoque</field>
+        <field name='symbol2'>032.1</field>
+        <field name='assunto2'>Controle de estoque (Movimentação de material)</field>
+    </row>
+    <row>
+        <field name='id'>190</field>
+        <field name='symbol1'>034.2</field>
+        <field name='assunto1'>Extravio. Roubo. Desaparecimento</field>
+        <field name='symbol2'>033.6</field>
+        <field name='assunto2'>Extravio, roubo, desaparecimento, furto e avaria (Alienação e baixa)</field>
+    </row>
+    <row>
+        <field name='id'>191</field>
+        <field name='symbol1'>034.3</field>
+        <field name='assunto1'>Transporte de material</field>
+        <field name='symbol2'>034</field>
+        <field name='assunto2'>Contratação de prestação de serviços</field>
+    </row>
+    <row>
+        <field name='id'>192</field>
+        <field name='symbol1'>034.4</field>
+        <field name='assunto1'>Autorização de saída de material</field>
+        <field name='symbol2'>032.2</field>
+        <field name='assunto2'>Autorização de entrada e saída de material (Movimentação de material)</field>
+    </row>
+    <row>
+        <field name='id'>193</field>
+        <field name='symbol1'>034.5</field>
+        <field name='assunto1'>Recolhimento de material ao depósito</field>
+        <field name='symbol2'>032.3</field>
+        <field name='assunto2'>Recolhimento de material ao depósito (Movimentação de material)</field>
+    </row>
+    <row>
+        <field name='id'>194</field>
+        <field name='symbol1'>035</field>
+        <field name='assunto1'>Alienação. Baixa</field>
+        <field name='symbol2'>033</field>
+        <field name='assunto2'>Alienação e baixa</field>
+    </row>
+    <row>
+        <field name='id'>195</field>
+        <field name='symbol1'>035.1</field>
+        <field name='assunto1'>Venda</field>
+        <field name='symbol2'>033.11</field>
+        <field name='assunto2'>Material permanente (Alienação e baixa)</field>
+    </row>
+    <row>
+        <field name='id'>196</field>
+        <field name='symbol1'>035.1</field>
+        <field name='assunto1'>Venda</field>
+        <field name='symbol2'>033.12</field>
+        <field name='assunto2'>Material de consumo (Alienação e baixa)</field>
+    </row>
+    <row>
+        <field name='id'>197</field>
+        <field name='symbol1'>035.2</field>
+        <field name='assunto1'>Cessão. Doação. Permuta</field>
+        <field name='symbol2'>033.21</field>
+        <field name='assunto2'>Material permanente (Doação e permuta / Alienação e baixa)</field>
+    </row>
+    <row>
+        <field name='id'>198</field>
+        <field name='symbol1'>035.2</field>
+        <field name='assunto1'>Cessão. Doação. Permuta</field>
+        <field name='symbol2'>033.22</field>
+        <field name='assunto2'>Material de consumo (Doação e permuta / Alienação e baixa)</field>
+    </row>
+    <row>
+        <field name='id'>199</field>
+        <field name='symbol1'>035.2</field>
+        <field name='assunto1'>Cessão. Doação. Permuta</field>
+        <field name='symbol2'>033.51</field>
+        <field name='assunto2'>Material permanente (Cessão, comodato e empréstimo / Alienação e baixa)</field>
+    </row>
+    <row>
+        <field name='id'>200</field>
+        <field name='symbol1'>035.2</field>
+        <field name='assunto1'>Cessão. Doação. Permuta</field>
+        <field name='symbol2'>033.52</field>
+        <field name='assunto2'>Material de consumo (Cessão, comodato e empréstimo / Alienação e baixa)</field>
+    </row>
+    <row>
+        <field name='id'>201</field>
+        <field name='symbol1'>036</field>
+        <field name='assunto1'>Instalação e manutenção</field>
+        <field name='symbol2'>034</field>
+        <field name='assunto2'>Contratação de prestação de serviços</field>
+    </row>
+    <row>
+        <field name='id'>202</field>
+        <field name='symbol1'>036.1</field>
+        <field name='assunto1'>Requisição e contratação de serviços</field>
+        <field name='symbol2'>034</field>
+        <field name='assunto2'>Contratação de prestação de serviços</field>
+    </row>
+    <row>
+        <field name='id'>203</field>
+        <field name='symbol1'>036.2</field>
+        <field name='assunto1'>Serviços executados em oficinas do órgão</field>
+        <field name='symbol2'>035</field>
+        <field name='assunto2'>Execução de serviços de instalação e manutenção</field>
+    </row>
+    <row>
+        <field name='id'>204</field>
+        <field name='symbol1'>037</field>
+        <field name='assunto1'>Inventário</field>
+        <field name='symbol2'>036</field>
+        <field name='assunto2'>Controle de materiais</field>
+    </row>
+    <row>
+        <field name='id'>205</field>
+        <field name='symbol1'>037.1</field>
+        <field name='assunto1'>Material permanente</field>
+        <field name='symbol2'>036.1</field>
+        <field name='assunto2'>Inventário de material permanente (Controle de materiais)</field>
+    </row>
+    <row>
+        <field name='id'>206</field>
+        <field name='symbol1'>037.2</field>
+        <field name='assunto1'>Material de consumo</field>
+        <field name='symbol2'>036.2</field>
+        <field name='assunto2'>Inventário de material de consumo (Controle de materiais)</field>
+    </row>
+    <row>
+        <field name='id'>207</field>
+        <field name='symbol1'>039</field>
+        <field name='assunto1'>Outros assuntos referentes a material</field>
+        <field name='symbol2'>039</field>
+        <field name='assunto2'>Outras ações referentes à gestão de material</field>
+    </row>
+    <row>
+        <field name='id'>208</field>
+        <field name='symbol1'>040</field>
+        <field name='assunto1'>Patrimônio</field>
+        <field name='symbol2'>040</field>
+        <field name='assunto2'>Gestão de bens patrimoniais e de serviços</field>
+    </row>
+    <row>
+        <field name='id'>209</field>
+        <field name='symbol1'>040</field>
+        <field name='assunto1'>Patrimônio</field>
+        <field name='symbol2'>040.01</field>
+        <field name='assunto2'>Normatização. Regulamentação</field>
+    </row>
+    <row>
+        <field name='id'>210</field>
+        <field name='symbol1'>041</field>
+        <field name='assunto1'>Bens imóveis</field>
+        <field name='symbol2'>043.1</field>
+        <field name='assunto2'>Registro dos imóveis (Administração condominial)</field>
+    </row>
+    <row>
+        <field name='id'>211</field>
+        <field name='symbol1'>041.01</field>
+        <field name='assunto1'>Fornecimento e manutenção de serviços básicos</field>
+        <field name='symbol2'>045.1</field>
+        <field name='assunto2'>Fornecimento de serviços públicos essenciais (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>212</field>
+        <field name='symbol1'>041.011</field>
+        <field name='assunto1'>Água e esgoto</field>
+        <field name='symbol2'>045.11</field>
+        <field name='assunto2'>Água e esgotamento sanitário (Fornecimento de serviços públicos essenciais)</field>
+    </row>
+    <row>
+        <field name='id'>213</field>
+        <field name='symbol1'>041.012</field>
+        <field name='assunto1'>Gás</field>
+        <field name='symbol2'>045.12</field>
+        <field name='assunto2'>Gás (Fornecimento de serviços públicos essenciais)</field>
+    </row>
+    <row>
+        <field name='id'>214</field>
+        <field name='symbol1'>041.013</field>
+        <field name='assunto1'>Luz e força</field>
+        <field name='symbol2'>045.13</field>
+        <field name='assunto2'>Energia elétrica (Fornecimento de serviços públicos essenciais)</field>
+    </row>
+    <row>
+        <field name='id'>215</field>
+        <field name='symbol1'>041.02</field>
+        <field name='assunto1'>Comissão interna de conservação de energia</field>
+        <field name='symbol2'>049.1</field>
+        <field name='assunto2'>Racionalização do uso de bens e serviços</field>
+    </row>
+    <row>
+        <field name='id'>216</field>
+        <field name='symbol1'>041.02</field>
+        <field name='assunto1'>Condomínio</field>
+        <field name='symbol2'>043.2</field>
+        <field name='assunto2'>Serviços de condomínio (Administração condominial)</field>
+    </row>
+    <row>
+        <field name='id'>217</field>
+        <field name='symbol1'>041.1</field>
+        <field name='assunto1'>Aquisição</field>
+        <field name='symbol2'>041</field>
+        <field name='assunto2'>Aquisição e incorporação</field>
+    </row>
+    <row>
+        <field name='id'>218</field>
+        <field name='symbol1'>041.11</field>
+        <field name='assunto1'>Compra</field>
+        <field name='symbol2'>041.11</field>
+        <field name='assunto2'>Bens imóveis (Compra / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>219</field>
+        <field name='symbol1'>041.12</field>
+        <field name='assunto1'>Cessão</field>
+        <field name='symbol2'>041.51</field>
+        <field name='assunto2'>Bens imóveis (Cessão e comodato / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>220</field>
+        <field name='symbol1'>041.13</field>
+        <field name='assunto1'>Doação</field>
+        <field name='symbol2'>041.21</field>
+        <field name='assunto2'>Bens imóveis (Doação e permuta / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>221</field>
+        <field name='symbol1'>041.14</field>
+        <field name='assunto1'>Permuta</field>
+        <field name='symbol2'>041.21</field>
+        <field name='assunto2'>Bens imóveis (Doação e permuta / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>222</field>
+        <field name='symbol1'>041.15</field>
+        <field name='assunto1'>Locação. Arrendamento. Comodato</field>
+        <field name='symbol2'>041.51</field>
+        <field name='assunto2'>Bens imóveis (Cessão e comodato / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>223</field>
+        <field name='symbol1'>041.15</field>
+        <field name='assunto1'>Locação. Arrendamento. Comodato</field>
+        <field name='symbol2'>041.61</field>
+        <field name='assunto2'>Bens imóveis (Locação, arrendamento mercantil (leasing). Sublocação / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>224</field>
+        <field name='symbol1'>041.15</field>
+        <field name='assunto1'>Locação. Arrendamento. Comodato</field>
+        <field name='symbol2'>042.6</field>
+        <field name='assunto2'>Bens imóveis (Locação. Arrendamento. Sublocação / Alienação)</field>
+    </row>
+    <row>
+        <field name='id'>225</field>
+        <field name='symbol1'>041.2</field>
+        <field name='assunto1'>Alienação</field>
+        <field name='symbol2'>042</field>
+        <field name='assunto2'>Alienação</field>
+    </row>
+    <row>
+        <field name='id'>226</field>
+        <field name='symbol1'>041.21</field>
+        <field name='assunto1'>Venda</field>
+        <field name='symbol2'>042.11</field>
+        <field name='assunto2'>Bens imóveis (Venda / Alienação)</field>
+    </row>
+    <row>
+        <field name='id'>227</field>
+        <field name='symbol1'>041.22</field>
+        <field name='assunto1'>Cessão</field>
+        <field name='symbol2'>042.51</field>
+        <field name='assunto2'>Bens imóveis (Cessão e comodato / Alienação)</field>
+    </row>
+    <row>
+        <field name='id'>228</field>
+        <field name='symbol1'>041.23</field>
+        <field name='assunto1'>Doação</field>
+        <field name='symbol2'>042.21</field>
+        <field name='assunto2'>Bens imóveis (Doação e permuta / Alienação)</field>
+    </row>
+    <row>
+        <field name='id'>229</field>
+        <field name='symbol1'>041.24</field>
+        <field name='assunto1'>Permuta</field>
+        <field name='symbol2'>042.21</field>
+        <field name='assunto2'>Bens imóveis (Doação e permuta / Alienação)</field>
+    </row>
+    <row>
+        <field name='id'>230</field>
+        <field name='symbol1'>041.3</field>
+        <field name='assunto1'>Desapropriação. Reintegração de posse. Reivindicação de domínio. Tombamento</field>
+        <field name='symbol2'>042.4</field>
+        <field name='assunto2'>Desapropriação e desmembramento (Alienação)</field>
+    </row>
+    <row>
+        <field name='id'>231</field>
+        <field name='symbol1'>041.3</field>
+        <field name='assunto1'>Desapropriação. Reintegração de posse. Reivindicação de domínio. Tombamento</field>
+        <field name='symbol2'>043.3</field>
+        <field name='assunto2'>Reintegração de posse. Reivindicação de domínio. Despejo de permissionário (Administração condominial)</field>
+    </row>
+    <row>
+        <field name='id'>232</field>
+        <field name='symbol1'>041.3</field>
+        <field name='assunto1'>Desapropriação. Reintegração de posse. Reivindicação de domínio. Tombamento</field>
+        <field name='symbol2'>043.4</field>
+        <field name='assunto2'>Tombamento (Administração condominial)</field>
+    </row>
+    <row>
+        <field name='id'>233</field>
+        <field name='symbol1'>041.4</field>
+        <field name='assunto1'>Obras</field>
+        <field name='symbol2'>045.3</field>
+        <field name='assunto2'>Execução de obras (Contratação e prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>234</field>
+        <field name='symbol1'>041.41</field>
+        <field name='assunto1'>Reforma. Recuperação. Restauração</field>
+        <field name='symbol2'>045.32</field>
+        <field name='assunto2'>Reforma. Recuperação. Restauração (Execução de obras / Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>235</field>
+        <field name='symbol1'>041.42</field>
+        <field name='assunto1'>Construção</field>
+        <field name='symbol2'>045.31</field>
+        <field name='assunto2'>Construção (Execução de obras / Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>236</field>
+        <field name='symbol1'>041.5</field>
+        <field name='assunto1'>Serviços de manutenção</field>
+        <field name='symbol2'>045.2</field>
+        <field name='assunto2'>Manutenção e reparo das instalações (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>237</field>
+        <field name='symbol1'>041.51</field>
+        <field name='assunto1'>Manutenção de elevadores</field>
+        <field name='symbol2'>045.21</field>
+        <field name='assunto2'>Elevadores (Manutenção e reparo das instalações)</field>
+    </row>
+    <row>
+        <field name='id'>238</field>
+        <field name='symbol1'>041.52</field>
+        <field name='assunto1'>Manutenção de ar-condicionado</field>
+        <field name='symbol2'>045.22</field>
+        <field name='assunto2'>Sistemas centrais de ar-condicionado (Manutenção e reparo das instalações)</field>
+    </row>
+    <row>
+        <field name='id'>239</field>
+        <field name='symbol1'>041.53</field>
+        <field name='assunto1'>Manutenção de subestações e geradores</field>
+        <field name='symbol2'>045.23</field>
+        <field name='assunto2'>Subestações elétricas e geradores (Manutenção e reparo das instalações)</field>
+    </row>
+    <row>
+        <field name='id'>240</field>
+        <field name='symbol1'>041.54</field>
+        <field name='assunto1'>Limpeza. Imunização. Desinfestação</field>
+        <field name='symbol2'>045.24</field>
+        <field name='assunto2'>Conservação predial (Manutenção e reparo das instalações)</field>
+    </row>
+    <row>
+        <field name='id'>241</field>
+        <field name='symbol1'>041.59</field>
+        <field name='assunto1'>Outros serviços de manutenção</field>
+        <field name='symbol2'>-</field>
+        <field name='assunto2'>-</field>
+    </row>
+    <row>
+        <field name='id'>242</field>
+        <field name='symbol1'>042</field>
+        <field name='assunto1'>Veículos</field>
+        <field name='symbol2'>-</field>
+        <field name='assunto2'>-</field>
+    </row>
+    <row>
+        <field name='id'>243</field>
+        <field name='symbol1'>042.1</field>
+        <field name='assunto1'>Aquisição</field>
+        <field name='symbol2'>041.1</field>
+        <field name='assunto2'>Compra (Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>244</field>
+        <field name='symbol1'>042.11</field>
+        <field name='assunto1'>Compra</field>
+        <field name='symbol2'>041.12</field>
+        <field name='assunto2'>Veículos (Compra / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>245</field>
+        <field name='symbol1'>042.12</field>
+        <field name='assunto1'>Aluguel</field>
+        <field name='symbol2'>041.62</field>
+        <field name='assunto2'>Veículos (Locação. Arrendamento mercantil (leasing). Sublocação / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>246</field>
+        <field name='symbol1'>042.13</field>
+        <field name='assunto1'>Cessão. Doação. Permuta. Transferência</field>
+        <field name='symbol2'>041.22</field>
+        <field name='assunto2'>Veículos (Doação e permuta / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>247</field>
+        <field name='symbol1'>042.13</field>
+        <field name='assunto1'>Cessão. Doação. Permuta. Transferência</field>
+        <field name='symbol2'>041.52</field>
+        <field name='assunto2'>Veículos (Cessão e comodato / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>248</field>
+        <field name='symbol1'>042.2</field>
+        <field name='assunto1'>Cadastro. Licenciamento. Emplacamento. Tombamento</field>
+        <field name='symbol2'>044.1</field>
+        <field name='assunto2'>Cadastramento, licenciamento e emplacamento (Administração da frota de veículos)</field>
+    </row>
+    <row>
+        <field name='id'>249</field>
+        <field name='symbol1'>042.2</field>
+        <field name='assunto1'>Cadastro. Licenciamento. Emplacamento. Tombamento</field>
+        <field name='symbol2'>044.2</field>
+        <field name='assunto2'>Tombamento (Administração da frota de veículos)</field>
+    </row>
+    <row>
+        <field name='id'>250</field>
+        <field name='symbol1'>042.3</field>
+        <field name='assunto1'>Alienação</field>
+        <field name='symbol2'>042</field>
+        <field name='assunto2'>Alienação</field>
+    </row>
+    <row>
+        <field name='id'>251</field>
+        <field name='symbol1'>042.31</field>
+        <field name='assunto1'>Venda</field>
+        <field name='symbol2'>042.12</field>
+        <field name='assunto2'>Veículos (Venda / Alienação)</field>
+    </row>
+    <row>
+        <field name='id'>252</field>
+        <field name='symbol1'>042.32</field>
+        <field name='assunto1'>Cessão. Doação. Permuta. Transferência</field>
+        <field name='symbol2'>042.22</field>
+        <field name='assunto2'>Veículos (Doação e permuta / Alienação)</field>
+    </row>
+    <row>
+        <field name='id'>253</field>
+        <field name='symbol1'>042.32</field>
+        <field name='assunto1'>Cessão. Doação. Permuta. Transferência</field>
+        <field name='symbol2'>042.52</field>
+        <field name='assunto2'>Veículos (Cessão e comodato / Alienação)</field>
+    </row>
+    <row>
+        <field name='id'>254</field>
+        <field name='symbol1'>042.4</field>
+        <field name='assunto1'>Abastecimento. Limpeza. Manutenção. Reparo</field>
+        <field name='symbol2'>045.5</field>
+        <field name='assunto2'>Abastecimento e manutenção de veículos (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>255</field>
+        <field name='symbol1'>042.5</field>
+        <field name='assunto1'>Acidentes. Infrações. Multas</field>
+        <field name='symbol2'>044.3</field>
+        <field name='assunto2'>Ocorrência de sinistros (Administração da frota de veículos)</field>
+    </row>
+    <row>
+        <field name='id'>256</field>
+        <field name='symbol1'>042.5</field>
+        <field name='assunto1'>Acidentes. Infrações. Multas</field>
+        <field name='symbol2'>044.6</field>
+        <field name='assunto2'>Notificações de infrações e multas (Administração da frota de veículos)</field>
+    </row>
+    <row>
+        <field name='id'>257</field>
+        <field name='symbol1'>042.9</field>
+        <field name='assunto1'>Outros assuntos referentes a veículos</field>
+        <field name='symbol2'>-</field>
+        <field name='assunto2'>-</field>
+    </row>
+    <row>
+        <field name='id'>258</field>
+        <field name='symbol1'>042.91</field>
+        <field name='assunto1'>Controle de uso de veículos</field>
+        <field name='symbol2'>044.4</field>
+        <field name='assunto2'>Controle de uso (Administração da frota de veículos)</field>
+    </row>
+    <row>
+        <field name='id'>259</field>
+        <field name='symbol1'>042.911</field>
+        <field name='assunto1'>Requisição</field>
+        <field name='symbol2'>044.4</field>
+        <field name='assunto2'>Controle de uso (Administração da frota de veículos)</field>
+    </row>
+    <row>
+        <field name='id'>260</field>
+        <field name='symbol1'>042.912</field>
+        <field name='assunto1'>Autorização para uso fora do horário do expediente</field>
+        <field name='symbol2'>044.4</field>
+        <field name='assunto2'>Controle de uso (Administração da frota de veículos)</field>
+    </row>
+    <row>
+        <field name='id'>261</field>
+        <field name='symbol1'>042.913</field>
+        <field name='assunto1'>Estacionamento. Garagem</field>
+        <field name='symbol2'>044.5</field>
+        <field name='assunto2'>Estacionamento. Garagem (Administração da frota de veículos)</field>
+    </row>
+    <row>
+        <field name='id'>262</field>
+        <field name='symbol1'>043</field>
+        <field name='assunto1'>Bens semoventes</field>
+        <field name='symbol2'>041.13</field>
+        <field name='assunto2'>Bens semoventes (Compra / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>263</field>
+        <field name='symbol1'>043</field>
+        <field name='assunto1'>Bens semoventes</field>
+        <field name='symbol2'>041.23</field>
+        <field name='assunto2'>Bens semoventes (Doação e permuta / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>264</field>
+        <field name='symbol1'>043</field>
+        <field name='assunto1'>Bens semoventes</field>
+        <field name='symbol2'>041.4</field>
+        <field name='assunto2'>Procriação (Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>265</field>
+        <field name='symbol1'>043</field>
+        <field name='assunto1'>Bens semoventes</field>
+        <field name='symbol2'>041.53</field>
+        <field name='assunto2'>Bens semoventes (Cessão e comodato / Aquisição e incorporação)</field>
+    </row>
+    <row>
+        <field name='id'>266</field>
+        <field name='symbol1'>043</field>
+        <field name='assunto1'>Bens semoventes</field>
+        <field name='symbol2'>042.13</field>
+        <field name='assunto2'>Bens semoventes (Venda / Alienação)</field>
+    </row>
+    <row>
+        <field name='id'>267</field>
+        <field name='symbol1'>043</field>
+        <field name='assunto1'>Bens semoventes</field>
+        <field name='symbol2'>042.23</field>
+        <field name='assunto2'>Bens semoventes (Doação e permuta / Alienação)</field>
+    </row>
+    <row>
+        <field name='id'>268</field>
+        <field name='symbol1'>043</field>
+        <field name='assunto1'>Bens semoventes</field>
+        <field name='symbol2'>042.53</field>
+        <field name='assunto2'>Bens semoventes (Cessão e comodato / Alienação)</field>
+    </row>
+    <row>
+        <field name='id'>269</field>
+        <field name='symbol1'>043</field>
+        <field name='assunto1'>Bens semoventes</field>
+        <field name='symbol2'>042.72</field>
+        <field name='assunto2'>Bens semoventes (Baixa. Desfazimento / Alienação)</field>
+    </row>
+    <row>
+        <field name='id'>270</field>
+        <field name='symbol1'>043</field>
+        <field name='assunto1'>Bens semoventes</field>
+        <field name='symbol2'>045.6</field>
+        <field name='assunto2'>Assistência veterinária (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>271</field>
+        <field name='symbol1'>043</field>
+        <field name='assunto1'>Bens semoventes</field>
+        <field name='symbol2'>045.7</field>
+        <field name='assunto2'>Adestramento (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>272</field>
+        <field name='symbol1'>044</field>
+        <field name='assunto1'>Inventário</field>
+        <field name='symbol2'>047.01</field>
+        <field name='assunto2'>Comissão de inventário (Controle de bens patrimoniais)</field>
+    </row>
+    <row>
+        <field name='id'>273</field>
+        <field name='symbol1'>044</field>
+        <field name='assunto1'>Inventário</field>
+        <field name='symbol2'>047.1</field>
+        <field name='assunto2'>Inventário de bens imóveis (Controle de bens patrimoniais)</field>
+    </row>
+    <row>
+        <field name='id'>274</field>
+        <field name='symbol1'>044</field>
+        <field name='assunto1'>Inventário</field>
+        <field name='symbol2'>047.2</field>
+        <field name='assunto2'>Inventário de veículos (Controle de bens patrimoniais)</field>
+    </row>
+    <row>
+        <field name='id'>275</field>
+        <field name='symbol1'>044</field>
+        <field name='assunto1'>Inventário</field>
+        <field name='symbol2'>047.3</field>
+        <field name='assunto2'>Inventário de bens semoventes (Controle de bens patrimoniais)</field>
+    </row>
+    <row>
+        <field name='id'>276</field>
+        <field name='symbol1'>049</field>
+        <field name='assunto1'>Outros assuntos referentes a patrimônio</field>
+        <field name='symbol2'>049</field>
+        <field name='assunto2'>Outras ações referentes à gestão de bens patrimoniais e de serviços</field>
+    </row>
+    <row>
+        <field name='id'>277</field>
+        <field name='symbol1'>049.1</field>
+        <field name='assunto1'>Guarda e segurança</field>
+        <field name='symbol2'>045.4</field>
+        <field name='assunto2'>Vigilância patrimonial (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>278</field>
+        <field name='symbol1'>049.1</field>
+        <field name='assunto1'>Guarda e segurança</field>
+        <field name='symbol2'>046.2</field>
+        <field name='assunto2'>Monitoramento. Vigilância (Proteção, guarda e segurança patrimonial)</field>
+    </row>
+    <row>
+        <field name='id'>279</field>
+        <field name='symbol1'>049.11</field>
+        <field name='assunto1'>Serviços de vigilância</field>
+        <field name='symbol2'>045.4</field>
+        <field name='assunto2'>Vigilância patrimonial (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>280</field>
+        <field name='symbol1'>049.11</field>
+        <field name='assunto1'>Serviços de vigilância</field>
+        <field name='symbol2'>046.2</field>
+        <field name='assunto2'>Monitoramento. Vigilância (Proteção, guarda e segurança patrimonial)</field>
+    </row>
+    <row>
+        <field name='id'>281</field>
+        <field name='symbol1'>049.12</field>
+        <field name='assunto1'>Seguros</field>
+        <field name='symbol2'>045.01</field>
+        <field name='assunto2'>Seguro patrimonial (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>282</field>
+        <field name='symbol1'>049.13</field>
+        <field name='assunto1'>Prevenção de incêndio</field>
+        <field name='symbol2'>046.11</field>
+        <field name='assunto2'>Planejamento, elaboração e acompanhamento de projetos (Prevenção de incêndio / Proteção, guarda e segurança patrimonial)</field>
+    </row>
+    <row>
+        <field name='id'>283</field>
+        <field name='symbol1'>049.13</field>
+        <field name='assunto1'>Prevenção de incêndio</field>
+        <field name='symbol2'>046.12</field>
+        <field name='assunto2'>Constituição de brigada voluntária (Prevenção de incêndio / Proteção, guarda e segurança patrimonial)</field>
+    </row>
+    <row>
+        <field name='id'>284</field>
+        <field name='symbol1'>049.13</field>
+        <field name='assunto1'>Prevenção de incêndio</field>
+        <field name='symbol2'>046.13</field>
+        <field name='assunto2'>Instalação e manutenção de equipamentos de combate a incêndio (Prevenção de incêndio / Proteção, guarda e segurança patrimonial)</field>
+    </row>
+    <row>
+        <field name='id'>285</field>
+        <field name='symbol1'>049.14</field>
+        <field name='assunto1'>Sinistro</field>
+        <field name='symbol2'>046.3</field>
+        <field name='assunto2'>Ocorrência de sinistros (Proteção, guarda e segurança patrimonial)</field>
+    </row>
+    <row>
+        <field name='id'>286</field>
+        <field name='symbol1'>049.15</field>
+        <field name='assunto1'>Controle de portaria</field>
+        <field name='symbol2'>046.4</field>
+        <field name='assunto2'>Controle de portaria (Proteção, guarda e segurança patrimonial)</field>
+    </row>
+    <row>
+        <field name='id'>287</field>
+        <field name='symbol1'>049.2</field>
+        <field name='assunto1'>Mudanças</field>
+        <field name='symbol2'>043.6</field>
+        <field name='assunto2'>Mudança (Administração condominial)</field>
+    </row>
+    <row>
+        <field name='id'>288</field>
+        <field name='symbol1'>049.21</field>
+        <field name='assunto1'>Para outros imóveis</field>
+        <field name='symbol2'>043.61</field>
+        <field name='assunto2'>Para outros imóveis (Mudança / Administração condominial)</field>
+    </row>
+    <row>
+        <field name='id'>289</field>
+        <field name='symbol1'>049.22</field>
+        <field name='assunto1'>Dentro do mesmo imóvel</field>
+        <field name='symbol2'>043.62</field>
+        <field name='assunto2'>Dentro do mesmo imóvel (Mudança / Administração condominial)</field>
+    </row>
+    <row>
+        <field name='id'>290</field>
+        <field name='symbol1'>049.3</field>
+        <field name='assunto1'>Uso de dependências</field>
+        <field name='symbol2'>043.7</field>
+        <field name='assunto2'>Uso de dependências (Administração condominial)</field>
+    </row>
+    <row>
+        <field name='id'>291</field>
+        <field name='symbol1'>050</field>
+        <field name='assunto1'>Orçamento e finanças</field>
+        <field name='symbol2'>050</field>
+        <field name='assunto2'>Gestão orçamentária e financeira</field>
+    </row>
+    <row>
+        <field name='id'>292</field>
+        <field name='symbol1'>050.1</field>
+        <field name='assunto1'>Auditoria</field>
+        <field name='symbol2'>054.1</field>
+        <field name='assunto2'>Prestação de contas. Tomada de contas (Controle externo. Auditoria externa)</field>
+    </row>
+    <row>
+        <field name='id'>293</field>
+        <field name='symbol1'>050.1</field>
+        <field name='assunto1'>Auditoria</field>
+        <field name='symbol2'>054.2</field>
+        <field name='assunto2'>Tomada de contas especial (Controle externo. Auditoria externa)</field>
+    </row>
+    <row>
+        <field name='id'>294</field>
+        <field name='symbol1'>051</field>
+        <field name='assunto1'>Orçamento</field>
+        <field name='symbol2'>051</field>
+        <field name='assunto2'>Gestão orçamentária</field>
+    </row>
+    <row>
+        <field name='id'>295</field>
+        <field name='symbol1'>051.1</field>
+        <field name='assunto1'>Programação orçamentária</field>
+        <field name='symbol2'>051.1</field>
+        <field name='assunto2'>Programação orçamentária (Gestão orçamentária)</field>
+    </row>
+    <row>
+        <field name='id'>296</field>
+        <field name='symbol1'>051.11</field>
+        <field name='assunto1'>Previsão orçamentária</field>
+        <field name='symbol2'>051.1</field>
+        <field name='assunto2'>Programação orçamentária (Gestão orçamentária)</field>
+    </row>
+    <row>
+        <field name='id'>297</field>
+        <field name='symbol1'>051.12</field>
+        <field name='assunto1'>Proposta orçamentária</field>
+        <field name='symbol2'>051.1</field>
+        <field name='assunto2'>Programação orçamentária (Gestão orçamentária)</field>
+    </row>
+    <row>
+        <field name='id'>298</field>
+        <field name='symbol1'>051.13</field>
+        <field name='assunto1'>Quadro de detalhamento de despesas (QDD)</field>
+        <field name='symbol2'>051.2</field>
+        <field name='assunto2'>Detalhamento de despesa (Gestão orçamentária)</field>
+    </row>
+    <row>
+        <field name='id'>299</field>
+        <field name='symbol1'>051.14</field>
+        <field name='assunto1'>Créditos adicionais</field>
+        <field name='symbol2'>051.4</field>
+        <field name='assunto2'>Retificação orçamentária. Créditos adicionais (Gestão orçamentária)</field>
+    </row>
+    <row>
+        <field name='id'>300</field>
+        <field name='symbol1'>051.2</field>
+        <field name='assunto1'>Execução orçamentária</field>
+        <field name='symbol2'>051.3</field>
+        <field name='assunto2'>Execução orçamentária (Gestão orçamentária)</field>
+    </row>
+    <row>
+        <field name='id'>301</field>
+        <field name='symbol1'>051.21</field>
+        <field name='assunto1'>Descentralização de recursos</field>
+        <field name='symbol2'>051.3</field>
+        <field name='assunto2'>Execução orçamentária (Gestão orçamentária)</field>
+    </row>
+    <row>
+        <field name='id'>302</field>
+        <field name='symbol1'>051.22</field>
+        <field name='assunto1'>Acompanhamento de despesa mensal</field>
+        <field name='symbol2'>051.3</field>
+        <field name='assunto2'>Execução orçamentária (Gestão orçamentária)</field>
+    </row>
+    <row>
+        <field name='id'>303</field>
+        <field name='symbol1'>051.23</field>
+        <field name='assunto1'>Plano operativo. Cronograma de desembolso</field>
+        <field name='symbol2'>051.3</field>
+        <field name='assunto2'>Execução orçamentária (Gestão orçamentária)</field>
+    </row>
+    <row>
+        <field name='id'>304</field>
+        <field name='symbol1'>052</field>
+        <field name='assunto1'>Finanças</field>
+        <field name='symbol2'>052</field>
+        <field name='assunto2'>Gestão financeira</field>
+    </row>
+    <row>
+        <field name='id'>305</field>
+        <field name='symbol1'>052.1</field>
+        <field name='assunto1'>Programação financeira de desembolso</field>
+        <field name='symbol2'>052.1</field>
+        <field name='assunto2'>Programação financeira (Gestão financeira)</field>
+    </row>
+    <row>
+        <field name='id'>306</field>
+        <field name='symbol1'>052.2</field>
+        <field name='assunto1'>Execução financeira</field>
+        <field name='symbol2'>052.2</field>
+        <field name='assunto2'>Execução financeira (Gestão financeira)</field>
+    </row>
+    <row>
+        <field name='id'>307</field>
+        <field name='symbol1'>052.21</field>
+        <field name='assunto1'>Receita</field>
+        <field name='symbol2'>052.211</field>
+        <field name='assunto2'>Receita corrente (Receita / Execução financeira)</field>
+    </row>
+    <row>
+        <field name='id'>308</field>
+        <field name='symbol1'>052.21</field>
+        <field name='assunto1'>Receita</field>
+        <field name='symbol2'>052.212</field>
+        <field name='assunto2'>Receita de capital (Receita / Execução financeira)</field>
+    </row>
+    <row>
+        <field name='id'>309</field>
+        <field name='symbol1'>052.21</field>
+        <field name='assunto1'>Receita</field>
+        <field name='symbol2'>052.213</field>
+        <field name='assunto2'>Ingresso extraorçamentário (Receita / Execução financeira)</field>
+    </row>
+    <row>
+        <field name='id'>310</field>
+        <field name='symbol1'>052.22</field>
+        <field name='assunto1'>Despesa</field>
+        <field name='symbol2'>052.221</field>
+        <field name='assunto2'>Despesa corrente (Despesa / Execução financeira)</field>
+    </row>
+    <row>
+        <field name='id'>311</field>
+        <field name='symbol1'>052.22</field>
+        <field name='assunto1'>Despesa</field>
+        <field name='symbol2'>052.222</field>
+        <field name='assunto2'>Despesa de capital (Despesa / Execução financeira)</field>
+    </row>
+    <row>
+        <field name='id'>312</field>
+        <field name='symbol1'>053</field>
+        <field name='assunto1'>Fundos especiais</field>
+        <field name='symbol2'>052.24</field>
+        <field name='assunto2'>Gestão de fundos especiais (Execução financeira)</field>
+    </row>
+    <row>
+        <field name='id'>313</field>
+        <field name='symbol1'>054</field>
+        <field name='assunto1'>Estímulos financeiros e creditícios</field>
+        <field name='symbol2'>052.251</field>
+        <field name='assunto2'>Financeiros (Concessão de benefícios, estímulos e incentivos / Execução fin anceira)</field>
+    </row>
+    <row>
+        <field name='id'>314</field>
+        <field name='symbol1'>054</field>
+        <field name='assunto1'>Estímulos financeiros e creditícios</field>
+        <field name='symbol2'>052.252</field>
+        <field name='assunto2'>Creditícios (Concessão de benefícios, estímulos e incentivos / Execução fina nceira)</field>
+    </row>
+    <row>
+        <field name='id'>315</field>
+        <field name='symbol1'>055</field>
+        <field name='assunto1'>Operações bancárias</field>
+        <field name='symbol2'>053</field>
+        <field name='assunto2'>Operação bancária</field>
+    </row>
+    <row>
+        <field name='id'>316</field>
+        <field name='symbol1'>055.01</field>
+        <field name='assunto1'>Pagamentos em moeda estrangeira</field>
+        <field name='symbol2'>053.1</field>
+        <field name='assunto2'>Pagamento em moeda estrangeira (Operação bancária)</field>
+    </row>
+    <row>
+        <field name='id'>317</field>
+        <field name='symbol1'>055.1</field>
+        <field name='assunto1'>Conta única</field>
+        <field name='symbol2'>053.2</field>
+        <field name='assunto2'>Gestão da conta única (Operação bancária)</field>
+    </row>
+    <row>
+        <field name='id'>318</field>
+        <field name='symbol1'>055.2</field>
+        <field name='assunto1'>Outras contas: tipo B, C e D</field>
+        <field name='symbol2'>053.3</field>
+        <field name='assunto2'>Gestão das contas correntes bancárias: tipo A, B, C, D e E (Operação bancária)</field>
+    </row>
+    <row>
+        <field name='id'>319</field>
+        <field name='symbol1'>056</field>
+        <field name='assunto1'>Balanços.Balancetes</field>
+        <field name='symbol2'>052.23</field>
+        <field name='assunto2'>Demonstração contábil (Execução financeira)</field>
+    </row>
+    <row>
+        <field name='id'>320</field>
+        <field name='symbol1'>057</field>
+        <field name='assunto1'>Tomada de contas. Prestação de contas</field>
+        <field name='symbol2'>054.1</field>
+        <field name='assunto2'>Prestação de contas. Tomada de contas (Controle externo. Auditoria externa)</field>
+    </row>
+    <row>
+        <field name='id'>321</field>
+        <field name='symbol1'>057</field>
+        <field name='assunto1'>Tomada de contas. Prestação de contas</field>
+        <field name='symbol2'>054.2</field>
+        <field name='assunto2'>Tomada de contas especial (Controle externo. Auditoria externa)</field>
+    </row>
+    <row>
+        <field name='id'>322</field>
+        <field name='symbol1'>059</field>
+        <field name='assunto1'>Outros assuntos referentes a orçamento e finanças</field>
+        <field name='symbol2'>059</field>
+        <field name='assunto2'>Outras ações referentes à gestão orçamentária e financeira</field>
+    </row>
+    <row>
+        <field name='id'>323</field>
+        <field name='symbol1'>059.1</field>
+        <field name='assunto1'>Tributos (impostos e taxas)</field>
+        <field name='symbol2'>059.2</field>
+        <field name='assunto2'>Recolhimento de tributos, impostos e taxas</field>
+    </row>
+    <row>
+        <field name='id'>324</field>
+        <field name='symbol1'>060</field>
+        <field name='assunto1'>Documentação e informação</field>
+        <field name='symbol2'>060</field>
+        <field name='assunto2'>Gestão da documentação e da informação</field>
+    </row>
+    <row>
+        <field name='id'>325</field>
+        <field name='symbol1'>060.1</field>
+        <field name='assunto1'>Publicação de matérias no diário oficial</field>
+        <field name='symbol2'>069.3</field>
+        <field name='assunto2'>Publicação de matérias (Outras ações referentes à gestão da documentação e da informação)</field>
+    </row>
+    <row>
+        <field name='id'>326</field>
+        <field name='symbol1'>060.2</field>
+        <field name='assunto1'>Publicação de matérias nos boletins administrativo, de pessoal e de serviço</field>
+        <field name='symbol2'>010.01</field>
+        <field name='assunto2'>Normatização. Regulamentação (Organização e funcionamento)</field>
+    </row>
+    <row>
+        <field name='id'>327</field>
+        <field name='symbol1'>060.2</field>
+        <field name='assunto1'>Publicação de matérias nos boletins administrativo, de pessoal e de serviço</field>
+        <field name='symbol2'>020.01</field>
+        <field name='assunto2'>Normatização. Regulamentação (Gestão de pessoas)</field>
+    </row>
+    <row>
+        <field name='id'>328</field>
+        <field name='symbol1'>060.3</field>
+        <field name='assunto1'>Publicação de matérias em outros periódicos</field>
+        <field name='symbol2'>069.3</field>
+        <field name='assunto2'>Publicação de matérias (Outras ações referentes à gestão da documentação e da informação)</field>
+    </row>
+    <row>
+        <field name='id'>329</field>
+        <field name='symbol1'>061</field>
+        <field name='assunto1'>Produção editorial</field>
+        <field name='symbol2'>065.1</field>
+        <field name='assunto2'>Edição. Coedição (Produção editorial)</field>
+    </row>
+    <row>
+        <field name='id'>330</field>
+        <field name='symbol1'>061.1</field>
+        <field name='assunto1'>Editoração. Programação visual</field>
+        <field name='symbol2'>065.2</field>
+        <field name='assunto2'>Editoração e programação visual (Produção editorial)</field>
+    </row>
+    <row>
+        <field name='id'>331</field>
+        <field name='symbol1'>061.2</field>
+        <field name='assunto1'>Distribuição. Promoção. Divulgação</field>
+        <field name='symbol2'>065.3</field>
+        <field name='assunto2'>Promoção, divulgação e distribuição (Produção editorial)</field>
+    </row>
+    <row>
+        <field name='id'>332</field>
+        <field name='symbol1'>062</field>
+        <field name='assunto1'>Documentação bibliográfica</field>
+        <field name='symbol2'>062</field>
+        <field name='assunto2'>Gestão de acervos bibliográfico e museológico</field>
+    </row>
+    <row>
+        <field name='id'>333</field>
+        <field name='symbol1'>062.01</field>
+        <field name='assunto1'>Normas e manuais</field>
+        <field name='symbol2'>060.01</field>
+        <field name='assunto2'>Normatização. Regulamentação (Gestão da documentação e da informação)</field>
+    </row>
+    <row>
+        <field name='id'>334</field>
+        <field name='symbol1'>062.1</field>
+        <field name='assunto1'>Aquisição</field>
+        <field name='symbol2'>062.1</field>
+        <field name='assunto2'>Aquisição e incorporação</field>
+    </row>
+    <row>
+        <field name='id'>335</field>
+        <field name='symbol1'>062.11</field>
+        <field name='assunto1'>Compra</field>
+        <field name='symbol2'>062.11</field>
+        <field name='assunto2'>Compra (Aquisição e incorporação / Gestão de acervos bibliográfico e museo lógico)</field>
+    </row>
+    <row>
+        <field name='id'>336</field>
+        <field name='symbol1'>062.12</field>
+        <field name='assunto1'>Doação</field>
+        <field name='symbol2'>062.12</field>
+        <field name='assunto2'>Doação (Aquisição e incorporação / Gestão de acervos bibliográfico e museológico)</field>
+    </row>
+    <row>
+        <field name='id'>337</field>
+        <field name='symbol1'>062.13</field>
+        <field name='assunto1'>Permuta</field>
+        <field name='symbol2'>062.13</field>
+        <field name='assunto2'>Permuta (Aquisição e incorporação / Gestão de acervos bibliográfico e mus eológico)</field>
+    </row>
+    <row>
+        <field name='id'>338</field>
+        <field name='symbol1'>062.2</field>
+        <field name='assunto1'>Registro</field>
+        <field name='symbol2'>062.21</field>
+        <field name='assunto2'>Registro (Processamento técnico / Gestão de acervos bibliográfico e museo lógico)</field>
+    </row>
+    <row>
+        <field name='id'>339</field>
+        <field name='symbol1'>062.3</field>
+        <field name='assunto1'>Catalogação. Classificação. Indexação</field>
+        <field name='symbol2'>062.22</field>
+        <field name='assunto2'>Catalogação, classificação e indexação (Processamento técnico / Gestão de acervos bibliográfico e museológico)</field>
+    </row>
+    <row>
+        <field name='id'>340</field>
+        <field name='symbol1'>062.4</field>
+        <field name='assunto1'>Referência e circulação</field>
+        <field name='symbol2'>063.1</field>
+        <field name='assunto2'>Consultas (Controle de acesso e de movimentação de acervos)</field>
+    </row>
+    <row>
+        <field name='id'>341</field>
+        <field name='symbol1'>062.4</field>
+        <field name='assunto1'>Referência e circulação</field>
+        <field name='symbol2'>063.2</field>
+        <field name='assunto2'>Empréstimos (Controle de acesso e de movimentação de acervos)</field>
+    </row>
+    <row>
+        <field name='id'>342</field>
+        <field name='symbol1'>062.5</field>
+        <field name='assunto1'>Inventário</field>
+        <field name='symbol2'>062.3</field>
+        <field name='assunto2'>Inventário (Gestão de acervos bibliográfico e museológico)</field>
+    </row>
+    <row>
+        <field name='id'>343</field>
+        <field name='symbol1'>063</field>
+        <field name='assunto1'>Documentação arquivística: gestão de documentos e sistema de arquivos</field>
+        <field name='symbol2'>061</field>
+        <field name='assunto2'>Gestão de documentos de arquivo</field>
+    </row>
+    <row>
+        <field name='id'>344</field>
+        <field name='symbol1'>063.01</field>
+        <field name='assunto1'>Normas e manuais</field>
+        <field name='symbol2'>060.01</field>
+        <field name='assunto2'>Normatização. Regulamentação (Gestão da documentação e da informação</field>
+    </row>
+    <row>
+        <field name='id'>345</field>
+        <field name='symbol1'>063.1</field>
+        <field name='assunto1'>Produção de documentos. Levantamento. Diagnóstico. Fluxo</field>
+        <field name='symbol2'>061.3</field>
+        <field name='assunto2'>Levantamento da produção e do fluxo documental (Gestão de documentos de arquivo)</field>
+    </row>
+    <row>
+        <field name='id'>346</field>
+        <field name='symbol1'>063.2</field>
+        <field name='assunto1'>Protocolo: recepção, tramitação e expedição de documentos</field>
+        <field name='symbol2'>061.1</field>
+        <field name='assunto2'>Adoção e controle dos procedimentos de protocolo (Gestão de documentos de arquivo)</field>
+    </row>
+    <row>
+        <field name='id'>347</field>
+        <field name='symbol1'>063.3</field>
+        <field name='assunto1'>Assistência técnica</field>
+        <field name='symbol2'>-</field>
+        <field name='assunto2'>-</field>
+    </row>
+    <row>
+        <field name='id'>348</field>
+        <field name='symbol1'>063.4</field>
+        <field name='assunto1'>Classificação e arquivamento (Código de classificação de documentos)</field>
+        <field name='symbol2'>061.4</field>
+        <field name='assunto2'>Elaboração dos instrumentos técnicos de gestão de documentos</field>
+    </row>
+    <row>
+        <field name='id'>349</field>
+        <field name='symbol1'>063.4</field>
+        <field name='assunto1'>Classificação e arquivamento (Código de classificação de documentos)</field>
+        <field name='symbol2'>061.51</field>
+        <field name='assunto2'>Classificação (Aplicação dos instrumentos técnicos de gestão de documentos )</field>
+    </row>
+    <row>
+        <field name='id'>350</field>
+        <field name='symbol1'>063.5</field>
+        <field name='assunto1'>Política de acesso aos documentos</field>
+        <field name='symbol2'>060.01</field>
+        <field name='assunto2'>Normatização. Regulamentação (Gestão da documentação e da informação)</field>
+    </row>
+    <row>
+        <field name='id'>351</field>
+        <field name='symbol1'>063.51</field>
+        <field name='assunto1'>Consultas. Empréstimos</field>
+        <field name='symbol2'>063.1</field>
+        <field name='assunto2'>Consultas (Controle de acesso e de movimentação de acervos)</field>
+    </row>
+    <row>
+        <field name='id'>352</field>
+        <field name='symbol1'>063.51</field>
+        <field name='assunto1'>Consultas. Empréstimos</field>
+        <field name='symbol2'>063.2</field>
+        <field name='assunto2'>Empréstimos (Controle de acesso e de movimentação de acervos)</field>
+    </row>
+    <row>
+        <field name='id'>353</field>
+        <field name='symbol1'>063.6</field>
+        <field name='assunto1'>Destinação de documentos</field>
+        <field name='symbol2'>061.52</field>
+        <field name='assunto2'>Avaliação (Aplicação dos instrumentos técnicos de gestão de documentos)</field>
+    </row>
+    <row>
+        <field name='id'>354</field>
+        <field name='symbol1'>063.61</field>
+        <field name='assunto1'>Análise. Avaliação. Seleção (Tabela de temporalidade)</field>
+        <field name='symbol2'>061.4</field>
+        <field name='assunto2'>Elaboração dos instrumentos técnicos de gestão de documentos</field>
+    </row>
+    <row>
+        <field name='id'>355</field>
+        <field name='symbol1'>063.61</field>
+        <field name='assunto1'>Análise. Avaliação. Seleção (Tabela de temporalidade)</field>
+        <field name='symbol2'>061.52</field>
+        <field name='assunto2'>Avaliação (Aplicação dos instrumentos técnicos de gestão de documentos)</field>
+    </row>
+    <row>
+        <field name='id'>356</field>
+        <field name='symbol1'>063.62</field>
+        <field name='assunto1'>Eliminação</field>
+        <field name='symbol2'>061.521</field>
+        <field name='assunto2'>Eliminação (Avaliação / Aplicação dos instrumentos técnicos de gestão de documentos)</field>
+    </row>
+    <row>
+        <field name='id'>357</field>
+        <field name='symbol1'>063.63</field>
+        <field name='assunto1'>Transferência. Recolhimento</field>
+        <field name='symbol2'>061.522</field>
+        <field name='assunto2'>Transferência (Avaliação / Aplicação dos instrumentos técnicos de gestão de documentos)</field>
+    </row>
+    <row>
+        <field name='id'>358</field>
+        <field name='symbol1'>063.63</field>
+        <field name='assunto1'>Transferência. Recolhimento</field>
+        <field name='symbol2'>061.523</field>
+        <field name='assunto2'>Recolhimento (Avaliação / Aplicação dos instrumentos técnicos de gestão de documentos)</field>
+    </row>
+    <row>
+        <field name='id'>359</field>
+        <field name='symbol1'>064</field>
+        <field name='assunto1'>Documentação museológica</field>
+        <field name='symbol2'>062.11</field>
+        <field name='assunto2'>Compra (Aquisição e incorporação / Gestão de acervos bibliográfico e museo lógico)</field>
+    </row>
+    <row>
+        <field name='id'>360</field>
+        <field name='symbol1'>064</field>
+        <field name='assunto1'>Documentação museológica</field>
+        <field name='symbol2'>062.12</field>
+        <field name='assunto2'>Doação (Aquisição e incorporação / Gestão de acervos bibliográfico e museológico)</field>
+    </row>
+    <row>
+        <field name='id'>361</field>
+        <field name='symbol1'>064</field>
+        <field name='assunto1'>Documentação museológica</field>
+        <field name='symbol2'>062.13</field>
+        <field name='assunto2'>Permuta (Aquisição e incorporação / Gestão de acervos bibliográfico e mus eológico)</field>
+    </row>
+    <row>
+        <field name='id'>362</field>
+        <field name='symbol1'>064</field>
+        <field name='assunto1'>Documentação museológica</field>
+        <field name='symbol2'>062.21</field>
+        <field name='assunto2'>Registro (Processamento técnico / Gestão de acervos bibliográfico e museo lógico)</field>
+    </row>
+    <row>
+        <field name='id'>363</field>
+        <field name='symbol1'>064</field>
+        <field name='assunto1'>Documentação museológica</field>
+        <field name='symbol2'>062.22</field>
+        <field name='assunto2'>Catalogação, classificação e indexação (Processamento técnico / Gestão de acervos bibliográfico e museológico)</field>
+    </row>
+    <row>
+        <field name='id'>364</field>
+        <field name='symbol1'>064</field>
+        <field name='assunto1'>Documentação museológica</field>
+        <field name='symbol2'>062.3</field>
+        <field name='assunto2'>Inventário (Processamento técnico / Gestão de acervos bibliográfico e mus eológico)</field>
+    </row>
+    <row>
+        <field name='id'>365</field>
+        <field name='symbol1'>064</field>
+        <field name='assunto1'>Documentação museológica</field>
+        <field name='symbol2'>062.41</field>
+        <field name='assunto2'>Doação (Desincorporação / Gestão de acervos bibliográfico e museológico)</field>
+    </row>
+    <row>
+        <field name='id'>366</field>
+        <field name='symbol1'>064</field>
+        <field name='assunto1'>Documentação museológica</field>
+        <field name='symbol2'>062.42</field>
+        <field name='assunto2'>Descarte (Desincorporação / Gestão de acervos bibliográfico e museológico )</field>
+    </row>
+    <row>
+        <field name='id'>367</field>
+        <field name='symbol1'>064</field>
+        <field name='assunto1'>Documentação museológica</field>
+        <field name='symbol2'>063.1</field>
+        <field name='assunto2'>Consultas (Controle de acesso e de movimentação de acervos)</field>
+    </row>
+    <row>
+        <field name='id'>368</field>
+        <field name='symbol1'>064</field>
+        <field name='assunto1'>Documentação museológica</field>
+        <field name='symbol2'>063.2</field>
+        <field name='assunto2'>Empréstimos (Controle de acesso e de movimentação de acervos)</field>
+    </row>
+    <row>
+        <field name='id'>369</field>
+        <field name='symbol1'>065</field>
+        <field name='assunto1'>Reprodução de documentos</field>
+        <field name='symbol2'>064.31</field>
+        <field name='assunto2'>Microfilmagem (Reformatação / Conservação e preservação de acervos)</field>
+    </row>
+    <row>
+        <field name='id'>370</field>
+        <field name='symbol1'>065</field>
+        <field name='assunto1'>Reprodução de documentos</field>
+        <field name='symbol2'>064.32</field>
+        <field name='assunto2'>Digitalização (Reformatação / Conservação e preservação de acervos)</field>
+    </row>
+    <row>
+        <field name='id'>371</field>
+        <field name='symbol1'>066</field>
+        <field name='assunto1'>Conservação de documentos</field>
+        <field name='symbol2'>064.01</field>
+        <field name='assunto2'>Avaliação e monitoramento (Conservação e preservação de acervos)</field>
+    </row>
+    <row>
+        <field name='id'>372</field>
+        <field name='symbol1'>066.1</field>
+        <field name='assunto1'>Desinfestação. Higienização</field>
+        <field name='symbol2'>064.1</field>
+        <field name='assunto2'>Desinfestação e higienização (Conservação e preservação de acervos)</field>
+    </row>
+    <row>
+        <field name='id'>373</field>
+        <field name='symbol1'>066.2</field>
+        <field name='assunto1'>Armazenamento. Depósitos</field>
+        <field name='symbol2'>064.2</field>
+        <field name='assunto2'>Controle das áreas de armazenamento (Conservação e preservação de acervos)</field>
+    </row>
+    <row>
+        <field name='id'>374</field>
+        <field name='symbol1'>066.3</field>
+        <field name='assunto1'>Restauração</field>
+        <field name='symbol2'>064.4</field>
+        <field name='assunto2'>Restauração (Conservação e preservação de acervos)</field>
+    </row>
+    <row>
+        <field name='id'>375</field>
+        <field name='symbol1'>067</field>
+        <field name='assunto1'>Informática</field>
+        <field name='symbol2'>066</field>
+        <field name='assunto2'>Gestão de tecnologia da informação</field>
+    </row>
+    <row>
+        <field name='id'>376</field>
+        <field name='symbol1'>067.1</field>
+        <field name='assunto1'>Planos e projetos</field>
+        <field name='symbol2'>066.1</field>
+        <field name='assunto2'>Desenvolvimento e controle de sistemas informatizados (Gestão de tecnologia da informação)</field>
+    </row>
+    <row>
+        <field name='id'>377</field>
+        <field name='symbol1'>067.2</field>
+        <field name='assunto1'>Programas. Sistemas. Redes</field>
+        <field name='symbol2'>066.2</field>
+        <field name='assunto2'>Instalação de equipamentos (Gestão de tecnologia da informação)</field>
+    </row>
+    <row>
+        <field name='id'>378</field>
+        <field name='symbol1'>067.21</field>
+        <field name='assunto1'>Manuais técnicos</field>
+        <field name='symbol2'>066.2</field>
+        <field name='assunto2'>Instalação de equipamentos (Gestão de tecnologia da informação)</field>
+    </row>
+    <row>
+        <field name='id'>379</field>
+        <field name='symbol1'>067.22</field>
+        <field name='assunto1'>Manuais do usuário</field>
+        <field name='symbol2'>066.2</field>
+        <field name='assunto2'>Instalação de equipamentos (Gestão de tecnologia da informação)</field>
+    </row>
+    <row>
+        <field name='id'>380</field>
+        <field name='symbol1'>067.3</field>
+        <field name='assunto1'>Assistência técnica</field>
+        <field name='symbol2'>067</field>
+        <field name='assunto2'>Contratação de prestação de serviços</field>
+    </row>
+    <row>
+        <field name='id'>381</field>
+        <field name='symbol1'>069</field>
+        <field name='assunto1'>Outros assuntos referentes à documentação e informação</field>
+        <field name='symbol2'>069</field>
+        <field name='assunto2'>Outras ações referentes à gestão da documentação e da informação</field>
+    </row>
+    <row>
+        <field name='id'>382</field>
+        <field name='symbol1'>070</field>
+        <field name='assunto1'>Comunicações</field>
+        <field name='symbol2'>070</field>
+        <field name='assunto2'>Gestão dos serviços postais e de telecomunicações</field>
+    </row>
+    <row>
+        <field name='id'>383</field>
+        <field name='symbol1'>071</field>
+        <field name='assunto1'>Serviço postal</field>
+        <field name='symbol2'>071.1</field>
+        <field name='assunto2'>Serviço postal (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>384</field>
+        <field name='symbol1'>071.1</field>
+        <field name='assunto1'>Serviços de entrega expressa</field>
+        <field name='symbol2'>071.1</field>
+        <field name='assunto2'>Serviço postal (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>385</field>
+        <field name='symbol1'>071.11</field>
+        <field name='assunto1'>Nacional</field>
+        <field name='symbol2'>071.1</field>
+        <field name='assunto2'>Serviço postal (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>386</field>
+        <field name='symbol1'>071.12</field>
+        <field name='assunto1'>Internacional</field>
+        <field name='symbol2'>071.1</field>
+        <field name='assunto2'>Serviço postal (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>387</field>
+        <field name='symbol1'>071.2</field>
+        <field name='assunto1'>Serviços de coleta, transporte e entrega de correspondência agrupada - malote</field>
+        <field name='symbol2'>071.1</field>
+        <field name='assunto2'>Serviço postal (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>388</field>
+        <field name='symbol1'>071.3</field>
+        <field name='assunto1'>Mala oficial</field>
+        <field name='symbol2'>071.1</field>
+        <field name='assunto2'>Serviço postal (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>389</field>
+        <field name='symbol1'>071.9</field>
+        <field name='assunto1'>Outros serviços postais</field>
+        <field name='symbol2'>071.1</field>
+        <field name='assunto2'>Serviço postal (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>390</field>
+        <field name='symbol1'>072</field>
+        <field name='assunto1'>Serviço de rádio</field>
+        <field name='symbol2'>071.2</field>
+        <field name='assunto2'>Serviço de radiofrequência (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>391</field>
+        <field name='symbol1'>072.1</field>
+        <field name='assunto1'>Instalação. Manutenção. Reparo</field>
+        <field name='symbol2'>071.2</field>
+        <field name='assunto2'>Serviço de radiofrequência (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>392</field>
+        <field name='symbol1'>073</field>
+        <field name='assunto1'>Serviço de telex</field>
+        <field name='symbol2'>071.3</field>
+        <field name='assunto2'>Serviço de telex (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>393</field>
+        <field name='symbol1'>073.1</field>
+        <field name='assunto1'>Instalação. Manutenção. Reparo</field>
+        <field name='symbol2'>071.3</field>
+        <field name='assunto2'>Serviço de telex (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>394</field>
+        <field name='symbol1'>074</field>
+        <field name='assunto1'>Serviço telefônico. Fac-símile</field>
+        <field name='symbol2'>071.4</field>
+        <field name='assunto2'>Serviço de telefonia. Serviço de fax (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>395</field>
+        <field name='symbol1'>074</field>
+        <field name='assunto1'>Serviço telefônico. Fac-símile</field>
+        <field name='symbol2'>073.32</field>
+        <field name='assunto2'>Registro de ligações (Serviço de telefonia. Serviço de fax / Autorização e controle de uso)</field>
+    </row>
+    <row>
+        <field name='id'>396</field>
+        <field name='symbol1'>074.1</field>
+        <field name='assunto1'>Instalação. Transferência. Manutenção. Reparo</field>
+        <field name='symbol2'>071.4</field>
+        <field name='assunto2'>Serviço de telefonia. Serviço de fax (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>397</field>
+        <field name='symbol1'>074.1</field>
+        <field name='assunto1'>Instalação. Transferência. Manutenção. Reparo</field>
+        <field name='symbol2'>073.31</field>
+        <field name='assunto2'>Transferência de propriedade ou titularidade (Serviço de telefonia. Serviço de fax / Autorização e controle de uso)</field>
+    </row>
+    <row>
+        <field name='id'>398</field>
+        <field name='symbol1'>074.2</field>
+        <field name='assunto1'>Listas telefônicas internas</field>
+        <field name='symbol2'>073.33</field>
+        <field name='assunto2'>Divulgação de listas telefônicas internas (Serviço de telefonia. Serviço de fax / Autorização e controle de uso)</field>
+    </row>
+    <row>
+        <field name='id'>399</field>
+        <field name='symbol1'>074.3</field>
+        <field name='assunto1'>Contas telefônicas</field>
+        <field name='symbol2'>071.4</field>
+        <field name='assunto2'>Serviço de telefonia. Serviço de fax (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>400</field>
+        <field name='symbol1'>075</field>
+        <field name='assunto1'>Serviço de transmissão de dados, voz e imagem</field>
+        <field name='symbol2'>071.5</field>
+        <field name='assunto2'>Serviço de transmissão de dados, voz e imagem (Contratação de prestação de serviços)</field>
+    </row>
+    <row>
+        <field name='id'>401</field>
+        <field name='symbol1'>075</field>
+        <field name='assunto1'>Serviço de transmissão de dados, voz e imagem</field>
+        <field name='symbol2'>073.4</field>
+        <field name='assunto2'>Serviço de transmissão de dados, voz e imagem (Autorização e controle de uso)</field>
+    </row>
+    <row>
+        <field name='id'>402</field>
+        <field name='symbol1'>079</field>
+        <field name='assunto1'>Outros assuntos referentes a comunicações</field>
+        <field name='symbol2'>-</field>
+        <field name='assunto2'>-</field>
+    </row>
+    <row>
+        <field name='id'>403</field>
+        <field name='symbol1'>090</field>
+        <field name='assunto1'>Outros assuntos referentes à administração geral</field>
+        <field name='symbol2'>-</field>
+        <field name='assunto2'>Subclasse vaga</field>
+    </row>
+    <row>
+        <field name='id'>404</field>
+        <field name='symbol1'>091</field>
+        <field name='assunto1'>Ações judiciais</field>
+        <field name='symbol2'>004.11</field>
+        <field name='assunto2'>Uniformização do entendimento jurídico (Orientação técnica e normativa / Assessoramento jurídico)</field>
+    </row>
+    <row>
+        <field name='id'>405</field>
+        <field name='symbol1'>091</field>
+        <field name='assunto1'>Ações judiciais</field>
+        <field name='symbol2'>004.12</field>
+        <field name='assunto2'>Análise dos instrumentos administrativos (Orientação técnica e normativa / Assessoramento jurídico)</field>
+    </row>
+    <row>
+        <field name='id'>406</field>
+        <field name='symbol1'>091</field>
+        <field name='assunto1'>Ações judiciais</field>
+        <field name='symbol2'>004.21</field>
+        <field name='assunto2'>Representação judicial (Atuação em contencioso / Assessoramento jurídico)</field>
+    </row>
+    <row>
+        <field name='id'>407</field>
+        <field name='symbol1'>091</field>
+        <field name='assunto1'>Ações judiciais</field>
+        <field name='symbol2'>004.22</field>
+        <field name='assunto2'>Representação extrajudicial (Atuação em contencioso / Assessoramento jurídico)</field>
+    </row>
+    <row>
+        <field name='id'>408</field>
+        <field name='symbol1'>900</field>
+        <field name='assunto1'>Assuntos diversos</field>
+        <field name='symbol2'>900</field>
+        <field name='assunto2'>Administração de atividades acessórias</field>
+    </row>
+    <row>
+        <field name='id'>409</field>
+        <field name='symbol1'>910</field>
+        <field name='assunto1'>Solenidades. Comemorações. Homenagens</field>
+        <field name='symbol2'>910.01</field>
+        <field name='assunto2'>Normatização. Regulamentação (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>410</field>
+        <field name='symbol1'>910</field>
+        <field name='assunto1'>Solenidades. Comemorações. Homenagens</field>
+        <field name='symbol2'>911</field>
+        <field name='assunto2'>Planejamento e programação (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>411</field>
+        <field name='symbol1'>910</field>
+        <field name='assunto1'>Solenidades. Comemorações. Homenagens</field>
+        <field name='symbol2'>912</field>
+        <field name='assunto2'>Divulgação (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>412</field>
+        <field name='symbol1'>910</field>
+        <field name='assunto1'>Solenidades. Comemorações. Homenagens</field>
+        <field name='symbol2'>913</field>
+        <field name='assunto2'>Inscrição e controle de frequência (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>413</field>
+        <field name='symbol1'>910</field>
+        <field name='assunto1'>Solenidades. Comemorações. Homenagens</field>
+        <field name='symbol2'>914</field>
+        <field name='assunto2'>Emissão de certificados (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>414</field>
+        <field name='symbol1'>910</field>
+        <field name='assunto1'>Solenidades. Comemorações. Homenagens</field>
+        <field name='symbol2'>915</field>
+        <field name='assunto2'>Avaliação dos resultados (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>415</field>
+        <field name='symbol1'>910</field>
+        <field name='assunto1'>Solenidades. Comemorações. Homenagens</field>
+        <field name='symbol2'>916</field>
+        <field name='assunto2'>Habilitação, julgamento e recursos (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>416</field>
+        <field name='symbol1'>910</field>
+        <field name='assunto1'>Solenidades. Comemorações. Homenagens</field>
+        <field name='symbol2'>917</field>
+        <field name='assunto2'>Premiação (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>417</field>
+        <field name='symbol1'>910</field>
+        <field name='assunto1'>Solenidades. Comemorações. Homenagens</field>
+        <field name='symbol2'>918</field>
+        <field name='assunto2'>Contratação de prestação de serviços (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>418</field>
+        <field name='symbol1'>910</field>
+        <field name='assunto1'>Solenidades. Comemorações. Homenagens</field>
+        <field name='symbol2'>919.1</field>
+        <field name='assunto2'>Participação em eventos promovidos e realizados por outras instituições (Outras ações referentes à gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>419</field>
+        <field name='symbol1'>920</field>
+        <field name='assunto1'>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</field>
+        <field name='symbol2'>910.01</field>
+        <field name='assunto2'>Normatização. Regulamentação (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>420</field>
+        <field name='symbol1'>920</field>
+        <field name='assunto1'>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</field>
+        <field name='symbol2'>911</field>
+        <field name='assunto2'>Planejamento e programação (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>421</field>
+        <field name='symbol1'>920</field>
+        <field name='assunto1'>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</field>
+        <field name='symbol2'>912</field>
+        <field name='assunto2'>Divulgação (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>422</field>
+        <field name='symbol1'>920</field>
+        <field name='assunto1'>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</field>
+        <field name='symbol2'>913</field>
+        <field name='assunto2'>Inscrição e controle de frequência (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>423</field>
+        <field name='symbol1'>920</field>
+        <field name='assunto1'>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</field>
+        <field name='symbol2'>914</field>
+        <field name='assunto2'>Emissão de certificados (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>424</field>
+        <field name='symbol1'>920</field>
+        <field name='assunto1'>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</field>
+        <field name='symbol2'>915</field>
+        <field name='assunto2'>Avaliação dos resultados (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>425</field>
+        <field name='symbol1'>920</field>
+        <field name='assunto1'>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</field>
+        <field name='symbol2'>916</field>
+        <field name='assunto2'>Habilitação, julgamento e recursos (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>426</field>
+        <field name='symbol1'>920</field>
+        <field name='assunto1'>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</field>
+        <field name='symbol2'>917</field>
+        <field name='assunto2'>Premiação (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>427</field>
+        <field name='symbol1'>920</field>
+        <field name='assunto1'>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</field>
+        <field name='symbol2'>918</field>
+        <field name='assunto2'>Contratação de prestação de serviços (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>428</field>
+        <field name='symbol1'>920</field>
+        <field name='assunto1'>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</field>
+        <field name='symbol2'>919.1</field>
+        <field name='assunto2'>Participação em eventos promovidos e realizados por outras instituições (Outras ações referentes à gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>429</field>
+        <field name='symbol1'>930</field>
+        <field name='assunto1'>Feiras. Salões. Exposições. Mostras. Concursos. Festas</field>
+        <field name='symbol2'>910.01</field>
+        <field name='assunto2'>Normatização. Regulamentação (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>430</field>
+        <field name='symbol1'>930</field>
+        <field name='assunto1'>Feiras. Salões. Exposições. Mostras. Concursos. Festas</field>
+        <field name='symbol2'>911</field>
+        <field name='assunto2'>Planejamento e programação (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>431</field>
+        <field name='symbol1'>930</field>
+        <field name='assunto1'>Feiras. Salões. Exposições. Mostras. Concursos. Festas</field>
+        <field name='symbol2'>912</field>
+        <field name='assunto2'>Divulgação (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>432</field>
+        <field name='symbol1'>930</field>
+        <field name='assunto1'>Feiras. Salões. Exposições. Mostras. Concursos. Festas</field>
+        <field name='symbol2'>913</field>
+        <field name='assunto2'>Inscrição e controle de frequência (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>433</field>
+        <field name='symbol1'>930</field>
+        <field name='assunto1'>Feiras. Salões. Exposições. Mostras. Concursos. Festas</field>
+        <field name='symbol2'>914</field>
+        <field name='assunto2'>Emissão de certificados (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>434</field>
+        <field name='symbol1'>930</field>
+        <field name='assunto1'>Feiras. Salões. Exposições. Mostras. Concursos. Festas</field>
+        <field name='symbol2'>915</field>
+        <field name='assunto2'>Avaliação dos resultados (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>435</field>
+        <field name='symbol1'>930</field>
+        <field name='assunto1'>Feiras. Salões. Exposições. Mostras. Concursos. Festas</field>
+        <field name='symbol2'>916</field>
+        <field name='assunto2'>Habilitação, julgamento e recursos (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>436</field>
+        <field name='symbol1'>930</field>
+        <field name='assunto1'>Feiras. Salões. Exposições. Mostras. Concursos. Festas</field>
+        <field name='symbol2'>917</field>
+        <field name='assunto2'>Premiação (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>437</field>
+        <field name='symbol1'>930</field>
+        <field name='assunto1'>Feiras. Salões. Exposições. Mostras. Concursos. Festas</field>
+        <field name='symbol2'>918</field>
+        <field name='assunto2'>Contratação de prestação de serviços (Gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>438</field>
+        <field name='symbol1'>930</field>
+        <field name='assunto1'>Feiras. Salões. Exposições. Mostras. Concursos. Festas</field>
+        <field name='symbol2'>919.1</field>
+        <field name='assunto2'>Participação em eventos promovidos e realizados por outras instituições (Outras ações referentes à gestão de eventos)</field>
+    </row>
+    <row>
+        <field name='id'>439</field>
+        <field name='symbol1'>940</field>
+        <field name='assunto1'>Visitas e visitantes</field>
+        <field name='symbol2'>920.01</field>
+        <field name='assunto2'>Normatização. Regulamentação (Promoção de visitas)</field>
+    </row>
+    <row>
+        <field name='id'>440</field>
+        <field name='symbol1'>940</field>
+        <field name='assunto1'>Visitas e visitantes</field>
+        <field name='symbol2'>921</field>
+        <field name='assunto2'>Programação de visitas (Promoção de visitas)</field>
+    </row>
+    <row>
+        <field name='id'>441</field>
+        <field name='symbol1'>940</field>
+        <field name='assunto1'>Visitas e visitantes</field>
+        <field name='symbol2'>922</field>
+        <field name='assunto2'>Controle de visitas e visitantes (Promoção de visitas)</field>
+    </row>
+    <row>
+        <field name='id'>442</field>
+        <field name='symbol1'>990</field>
+        <field name='assunto1'>Assuntos transitórios</field>
+        <field name='symbol2'>990</field>
+        <field name='assunto2'>Outras ações referentes à administração de atividades acessórias</field>
+    </row>
+    <row>
+        <field name='id'>443</field>
+        <field name='symbol1'>991</field>
+        <field name='assunto1'>Apresentação. Recomendação</field>
+        <field name='symbol2'>991</field>
+        <field name='assunto2'>Gestão de comunicações eventuais</field>
+    </row>
+    <row>
+        <field name='id'>444</field>
+        <field name='symbol1'>992</field>
+        <field name='assunto1'>Comunicados e informes</field>
+        <field name='symbol2'>991</field>
+        <field name='assunto2'>Gestão de comunicações eventuais</field>
+    </row>
+    <row>
+        <field name='id'>445</field>
+        <field name='symbol1'>993</field>
+        <field name='assunto1'>Agradecimentos. Convites. Felicitações. Pêsames</field>
+        <field name='symbol2'>991</field>
+        <field name='assunto2'>Gestão de comunicações eventuais</field>
+    </row>
+    <row>
+        <field name='id'>446</field>
+        <field name='symbol1'>994</field>
+        <field name='assunto1'>Protestos. Reivindicações. Sugestões</field>
+        <field name='symbol2'>991</field>
+        <field name='assunto2'>Gestão de comunicações eventuais</field>
+    </row>
+    <row>
+        <field name='id'>447</field>
+        <field name='symbol1'>995</field>
+        <field name='assunto1'>Pedidos, oferecimentos e informações diversas</field>
+        <field name='symbol2'>991</field>
+        <field name='assunto2'>Gestão de comunicações eventuais</field>
+    </row>
+    <row>
+        <field name='id'>448</field>
+        <field name='symbol1'>996</field>
+        <field name='assunto1'>Associações: culturais, de amigos e de servidores</field>
+        <field name='symbol2'>992</field>
+        <field name='assunto2'>Relacionamento com associações culturais, de amigos e de servidores</field>
+    </row>
+</ROOT>

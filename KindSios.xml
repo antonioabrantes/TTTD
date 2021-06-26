@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT>
+	<row>
+		<id>2</id>
+		<grupo>000</grupo>
+		<kind>s</kind>
+		<assunto>ADMINISTRAÇÃO GERAL</assunto>
+		<fase_corrente>-</fase_corrente>
+		<fase_intermediaria>-</fase_intermediaria>
+		<destinacao>-</destinacao>
+		<observacoes> </observacoes>
+		<indice>1</indice>
+		<proximo>2</proximo>
+	</row>
+	<row>
+		<id>27</id>
+		<grupo>010</grupo>
+		<kind>s</kind>
+		<assunto>ORGANIZAÇÃO E FUNCIONAMENTO</assunto>
+		<fase_corrente>-</fase_corrente>
+		<fase_intermediaria>-</fase_intermediaria>
+		<destinacao>-</destinacao>
+		<observacoes> </observacoes>
+		<indice>1</indice>
+		<proximo>3</proximo>
+	</row>
+	<row>
+		<id>65</id>
+		<grupo>020</grupo>
+		<kind>s</kind>
+		<assunto>GESTÃO DE PESSOAS</assunto>
+		<fase_corrente>-</fase_corrente>
+		<fase_intermediaria>-</fase_intermediaria>
+		<destinacao>-</destinacao>
+		<observacoes> </observacoes>
+		<indice>1</indice>
+		<proximo>4</proximo>
+	</row>
+	<row>
+		<id>224</id>
+		<grupo>030</grupo>
+		<kind>s</kind>
+		<assunto>GESTÃO DE MATERIAIS</assunto>
+		<fase_corrente>-</fase_corrente>
+		<fase_intermediaria>-</fase_intermediaria>
+		<destinacao>-</destinacao>
+		<observacoes> </observacoes>
+		<indice>1</indice>
+		<proximo>5</proximo>
+	</row>
+	<row>
+		<id>279</id>
+		<grupo>040</grupo>
+		<kind>s</kind>
+		<assunto>GESTÃO DE BENS PATRIMONIAIS E DE SERVIÇOS</assunto>
+		<fase_corrente>-</fase_corrente>
+		<fase_intermediaria>-</fase_intermediaria>
+		<destinacao>-</destinacao>
+		<observacoes> </observacoes>
+		<indice>1</indice>
+		<proximo>6</proximo>
+	</row>
+	<row>
+		<id>378</id>
+		<grupo>050</grupo>
+		<kind>s</kind>
+		<assunto>GESTÃO ORÇAMENTÁRIA E FINANCEIRA</assunto>
+		<fase_corrente>-</fase_corrente>
+		<fase_intermediaria>-</fase_intermediaria>
+		<destinacao>-</destinacao>
+		<observacoes> </observacoes>
+		<indice>1</indice>
+		<proximo>7</proximo>
+	</row>
+	<row>
+		<id>419</id>
+		<grupo>060</grupo>
+		<kind>s</kind>
+		<assunto>GESTÃO DA DOCUMENTAÇÃO E DA INFORMAÇÃO</assunto>
+		<fase_corrente>-</fase_corrente>
+		<fase_intermediaria>-</fase_intermediaria>
+		<destinacao>-</destinacao>
+		<observacoes> </observacoes>
+		<indice>1</indice>
+		<proximo>8</proximo>
+	</row>
+	<row>
+		<id>484</id>
+		<grupo>070</grupo>
+		<kind>s</kind>
+		<assunto>GESTÃO DOS SERVIÇOS POSTAIS E DE TELECOMUNICAÇÕES</assunto>
+		<fase_corrente>-</fase_corrente>
+		<fase_intermediaria>-</fase_intermediaria>
+		<destinacao>-</destinacao>
+		<observacoes> </observacoes>
+		<indice>1</indice>
+		<proximo>9</proximo>
+	</row>
+	<row>
+		<id>502</id>
+		<grupo>080</grupo>
+		<kind>s</kind>
+		<assunto>PESSOAL MILITAR</assunto>
+		<fase_corrente>-</fase_corrente>
+		<fase_intermediaria>-</fase_intermediaria>
+		<destinacao>-</destinacao>
+		<observacoes> </observacoes>
+		<indice>1</indice>
+		<proximo>10</proximo>
+	</row>
+	<row>
+		<id>669</id>
+		<grupo>090</grupo>
+		<kind>s</kind>
+		<assunto>VAGA</assunto>
+		<fase_corrente>-</fase_corrente>
+		<fase_intermediaria>-</fase_intermediaria>
+		<destinacao>-</destinacao>
+		<observacoes> </observacoes>
+		<indice>1</indice>
+		<proximo>0</proximo>
+	</row>
+	<row>
+		<id>671</id>
+		<grupo>910</grupo>
+		<kind>s</kind>
+		<assunto>GESTÃO DE EVENTOS</assunto>
+		<fase_corrente>-</fase_corrente>
+		<fase_intermediaria>-</fase_intermediaria>
+		<destinacao>-</destinacao>
+		<observacoes>Eliminar, após 2 anos, os documentos referentes aos eventos não efetivados.</observacoes>
+		<indice>194</indice>
+		<proximo>195</proximo>
+	</row>
+	<row>
+		<id>684</id>
+		<grupo>920</grupo>
+		<kind>s</kind>
+		<assunto>PROMOÇÃO DE VISITAS</assunto>
+		<fase_corrente>-</fase_corrente>
+		<fase_intermediaria>-</fase_intermediaria>
+		<destinacao>-</destinacao>
+		<observacoes> </observacoes>
+		<indice>194</indice>
+		<proximo>196</proximo>
+	</row>
+	<row>
+		<id>689</id>
+		<grupo>990</grupo>
+		<kind>s</kind>
+		<assunto>OUTRAS AÇÕES REFERENTES À ADMINISTRAÇÃO DE ATIVIDADES ACESSÓRIAS</assunto>
+		<fase_corrente>-</fase_corrente>
+		<fase_intermediaria>-</fase_intermediaria>
+		<destinacao>-</destinacao>
+		<observacoes> </observacoes>
+		<indice>194</indice>
+		<proximo>197</proximo>
+	</row>
+</ROOT>
